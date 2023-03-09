@@ -15,9 +15,9 @@
 <br>
 <br>
 
-<p style="text-align:center;">Go to the Unity website <a href="https://unity.com/" target="_blank">Unity</a> </p>
+<p align="center">Go to the Unity website <a href="https://unity.com/" target="_blank">Unity</a> </p>
 
-<p style="text-align:center;align-items:center"><img src="Unity-Images/Unity_Website.png" alt="Logo" height="250" width="450"> </p>
+<p align="center"><img src="Unity-Images/Unity_Website.png" alt="Logo" height="250" width="450"> </p>
 
 
 <p style="text-align:center;">Click on the "Get started" button located at the top right corner of the website</p>
