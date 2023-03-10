@@ -62,13 +62,14 @@
 <br>
 
 <p align="center">
-Click the "Next" button and follow the prompts to complete the installation process <br>
-Once the installation process is complete, go back to the Unity Hub window and click on the "Projects" tab located on the left-hand side of the window <br>
-Click on the "New" button located at the top right corner of the window <br>
-Select the "3D" or "2D" option, depending on your preference, and choose a name and location for your new project <br>
-Click on the "Create" button to create the new project <br>
-</p>
+* Click the "Next" button and follow the prompts to complete the installation process
 
+* Once the installation process is complete, go back to the Unity Hub window and click on the "Projects" tab located on the left-hand side of the window 
+
+* Click on the "New" button located at the top right corner of the window
+* Select the "3D" or "2D" option, depending on your preference, and choose a name and location for your new project
+* Click on the "Create" button to create the new project
+</p>
 <p align="center"><img src="Unity-Images/Unity_Continue.png" alt="Logo" height="250" width="450"></p>
 
 
