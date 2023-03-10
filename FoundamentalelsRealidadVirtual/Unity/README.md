@@ -62,6 +62,7 @@
 <br>
 
 <p align="center">
+
 * Click the "Next" button and follow the prompts to complete the installation process
 
 * Once the installation process is complete, go back to the Unity Hub window and click on the "Projects" tab located on the left-hand side of the window 
