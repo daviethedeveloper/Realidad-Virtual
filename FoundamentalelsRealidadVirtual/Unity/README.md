@@ -15,54 +15,50 @@
 <br>
 <br>
 
-<p align="center"> Go to the Unity website <a href="https://unity.com/" target="_blank">Unity</a> </p>
+* Go to the Unity website <a href="https://unity.com/" target="_blank">Unity</a> 
+* Click on the "Get started" button located at the top right corner of the website
 <p align="center"><img src="Unity-Images/Unity_Website.png" alt="Logo" > </p>
 
 <br>
 
-<p align="center">Click on the "Get started" button located at the top right corner of the website</p>
+* Click on Unity Personal Plan to get started
 <p align="center"><img src="Unity-Images/Unity_Get_Started.png" alt="Logo"> </p>
 
 <br>
 
-<p align="center">Click on the "Download Unity" button</p>
+* Click on the "Download Unity" button
 <p align="center"><img src="Unity-Images/Unity_Download.png" alt="Logo"> </p>
 
 <br>
 
-<p align="center">On the "Download Unity Hub" page, click on the "Download Unity Hub" button for your operating system (Windows or Mac) </p>
+* On the "Download Unity Hub" page, click on the "Download Unity Hub" button for your operating system (Windows or Mac) 
 <p align="center"><img src="Unity-Images/Unity_Hub.png" alt="Logo"> </p>
 
 <br>
 
-<p align="center">Once the Unity Hub installer has downloaded, run it and follow the instructions to install Unity Hub on your computer </p>
+* Once the Unity Hub installer has downloaded, run it and follow the instructions to install Unity Hub on your computer
 <p align="center"><img src="Unity-Images/Unity_Hub_Screen.png" alt="Logo" > </p>
 
 <br>
 
-<p align="center"> After the installation process is complete, launch Unity Hub </p>
-<p align="center">In the Unity Hub window, click on the "Installs" tab located on the left-hand side of the window </p>
-<p align="center"><img src="Unity-Images/Unity_Installs.png" alt="Logo" > </p>
+* After the installation process is complete, launch Unity Hub
+* In the Unity Hub window, click on the "Installs" tab located on the left-hand side of the window
 
-<br>
-
-<p align="center">Click on the "Add" button located at the top right corner of the window</p>
 <p align="center"><img src="Unity-Images/Unity_Install_Version.png" alt="Logo" > </p>
 
 <br>
 
-<p align="center">Select the version of Unity you want to install by clicking on the "Unity 2020 LTS" option</p>
+* Click on the "Add" button located at the top right corner of the window
+<p align="center"><img src="Unity-Images/Unity_Installs.png" alt="Logo" > </p>
+
+<br>
+
+* Select the version of Unity you want to install by clicking on the "Unity 2020 LTS" option
+* Select the "Android Build Support" option by clicking on the checkbox next to it
 <p align="center"><img src="Unity-Images/Unity_Android_Support.png" alt="Logo"> </p>
 
-<br>
-
-<p align="center">Select the "Android Build Support" option by clicking on the checkbox next to it</p>
-<p align="center"><img src="Unity-Images/Unity_Continue.png" alt="Logo" ></p>
 
 <br>
-
-
-<p align="center"><img src="Unity-Images/Unity_Create.png" alt="Logo"></p>
 
 * Click the "Next" button and follow the prompts to complete the installation process
 
@@ -73,7 +69,8 @@
 * Select the "3D" or "2D" option, depending on your preference, and choose a name and location for your new project
 
 * Click on the "Create" button to create the new project
-</p>
+
+<p align="center"><img src="Unity-Images/Unity_Create.png" alt="Logo"></p>
 
 
 <br>
