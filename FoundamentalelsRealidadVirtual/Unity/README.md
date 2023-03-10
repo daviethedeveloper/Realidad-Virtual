@@ -16,63 +16,64 @@
 <br>
 
 <p align="center"> Go to the Unity website <a href="https://unity.com/" target="_blank">Unity</a> </p>
-<p align="center"><img src="Unity-Images/Unity_Website.png" alt="Logo" height="250" width="450"> </p>
+<p align="center"><img src="Unity-Images/Unity_Website.png" alt="Logo" > </p>
 
 <br>
 
 <p align="center">Click on the "Get started" button located at the top right corner of the website</p>
-<p align="center"><img src="Unity-Images/Unity_Get_Started.png" alt="Logo" height="250" width="450"> </p>
+<p align="center"><img src="Unity-Images/Unity_Get_Started.png" alt="Logo"> </p>
 
 <br>
 
 <p align="center">Click on the "Download Unity" button</p>
-<p align="center"><img src="Unity-Images/Unity_Download.png" alt="Logo" height="250" width="400"> </p>
+<p align="center"><img src="Unity-Images/Unity_Download.png" alt="Logo"> </p>
 
 <br>
 
 <p align="center">On the "Download Unity Hub" page, click on the "Download Unity Hub" button for your operating system (Windows or Mac) </p>
-<p align="center"><img src="Unity-Images/Unity_Hub.png" alt="Logo" height="250" width="450"> </p>
+<p align="center"><img src="Unity-Images/Unity_Hub.png" alt="Logo"> </p>
 
 <br>
 
 <p align="center">Once the Unity Hub installer has downloaded, run it and follow the instructions to install Unity Hub on your computer </p>
-<p align="center"><img src="Unity-Images/Unity_Hub_Screen.png" alt="Logo" height="250" width="450"> </p>
+<p align="center"><img src="Unity-Images/Unity_Hub_Screen.png" alt="Logo" > </p>
 
 <br>
 
 <p align="center"> After the installation process is complete, launch Unity Hub </p>
 <p align="center">In the Unity Hub window, click on the "Installs" tab located on the left-hand side of the window </p>
-<p align="center"><img src="Unity-Images/Unity_Installs.png" alt="Logo" height="250" width="450"> </p>
+<p align="center"><img src="Unity-Images/Unity_Installs.png" alt="Logo" > </p>
 
 <br>
 
 <p align="center">Click on the "Add" button located at the top right corner of the window</p>
-<p align="center"><img src="Unity-Images/Unity_Install_Version.png" alt="Logo" height="250" width="450"> </p>
+<p align="center"><img src="Unity-Images/Unity_Install_Version.png" alt="Logo" > </p>
 
 <br>
 
 <p align="center">Select the version of Unity you want to install by clicking on the "Unity 2020 LTS" option</p>
-<p align="center"><img src="Unity-Images/Unity_Android_Support.png" alt="Logo" height="250" width="450"> </p>
+<p align="center"><img src="Unity-Images/Unity_Android_Support.png" alt="Logo"> </p>
 
 <br>
 
 <p align="center">Select the "Android Build Support" option by clicking on the checkbox next to it</p>
-<p align="center"><img src="Unity-Images/Unity_Create.png" alt="Logo" height="250" width="450"></p>
+<p align="center"><img src="Unity-Images/Unity_Continue.png" alt="Logo" ></p>
 
 <br>
 
-<p align="center">
+
+<p align="center"><img src="Unity-Images/Unity_Create.png" alt="Logo"></p>
 
 * Click the "Next" button and follow the prompts to complete the installation process
 
 * Once the installation process is complete, go back to the Unity Hub window and click on the "Projects" tab located on the left-hand side of the window 
 
 * Click on the "New" button located at the top right corner of the window
+
 * Select the "3D" or "2D" option, depending on your preference, and choose a name and location for your new project
+
 * Click on the "Create" button to create the new project
 </p>
-<p align="center"><img src="Unity-Images/Unity_Continue.png" alt="Logo" height="250" width="450"></p>
-
 
 
 <br>
@@ -95,7 +96,7 @@
 ### The Unity Interface
 <p>The Unity interface is the main workspace where you can access all the tools and features of the editor. The interface consists of various windows, including the Scene View, Game View, Hierarchy, Inspector, Project, and Console. These windows can be rearranged and customized to suit your needs.</p>
 
-<p align="center"><img src="Unity-Images/Unity_Scenes.png" alt="Logo" height="250" width="450"></p>
+<p align="center"><img src="Unity-Images/Unity_Scenes.png" alt="Logo"></p>
 
 
 <br>
@@ -103,7 +104,7 @@
 ### Scenes
 <p>A scene in Unity is a collection of game objects, lights, cameras, and other components that make up a level or area of your game. You can create and manage multiple scenes within a single project.</p>
 
-<p align="center"><img src="Unity-Images/Unity_Interface.png" alt="Logo" height="250" width="450"></p>
+<p align="center"><img src="Unity-Images/Unity_Interface.png" alt="Logo"></p>
 
 <br>
 
@@ -111,23 +112,23 @@
 ### Game Objects
 <p>A game object is the basic unit of a scene in Unity. It represents any object in your game, such as a character, a weapon, or an environment asset. Game objects can be customized by adding components, such as colliders, scripts, and particle systems.</p>
 
-<p align="center"><img src="Unity-Images/Unity_GameObject.png" alt="Logo" height="250" width="450"></p>
+<p align="center"><img src="Unity-Images/Unity_GameObject.png" alt="Logo"></p>
 
 <br>
 
 ### Components
 <p>Components are reusable pieces of code that you can attach to game objects to add functionality. Some examples of components include Rigidbody, Collider, Audio Source, and VR Camera. Components can be created and customized using C#.</p>
 
-<p align="center"><img src="Unity-Images/Unity_Component.png" alt="Logo" height="350" width="300"></p>
+<p align="center"><img src="Unity-Images/Unity_Component.png" alt="Logo" ></p>
 
 <br>
 
 ### Scripts
 <p>Scripts are written in C# and provide the logic and behavior for game objects. Scripts can be attached to game objects as components, and they can interact with other components and objects in the scene.</p>
 
-<p align="center"><img src="Unity-Images/Unity_Script.png" alt="Logo" height="250" width="450"></p>
-<p align="center"><img src="Unity-Images/Unity_Script_Attach.png" alt="Logo" height="250" width="450"></p>
-<p align="center"><img src="Unity-Images/Unity_Script_Add.png" alt="Logo"height="" width="300"></p>
+<p align="center"><img src="Unity-Images/Unity_Script.png" alt="Logo" ></p>
+<p align="center"><img src="Unity-Images/Unity_Script_Attach.png" alt="Logo"></p>
+<p align="center"><img src="Unity-Images/Unity_Script_Add.png" alt="Logo"></p>
 
 <br>
 
@@ -135,15 +136,15 @@
 ### Prefabs
 <p>A prefab is a reusable game object that can be instantiated multiple times in a scene or across different scenes. Prefabs can be created by selecting a game object and dragging it into the project window.</p>
 
-<p align="center"><img src="Unity-Images/Unity_Prefab_Environment.png" alt="Logo" height="250" width="450"></p>
-<p align="center"><img src="Unity-Images/Unity_Prefab_Overview.png" alt="Logo" height="250" width="450"></p>
+<p align="center"><img src="Unity-Images/Unity_Prefab_Environment.png" alt="Logo"></p>
+<p align="center"><img src="Unity-Images/Unity_Prefab_Overview.png" alt="Logo"></p>
 
 <br>
 
 ### Asset Store
 <p>The Unity Asset Store is a marketplace where you can buy and download pre-built assets, such as 3D models, sound effects, and scripts, to use in your game. The Asset Store also provides a wealth of resources, including tutorials and sample projects, to help you learn and develop your skills.</p>
 
-<p align="center"><img src="Unity-Images/Unity_AssetStore.png" alt="Logo" height="250" width="450"></p>
+<p align="center"><img src="Unity-Images/Unity_AssetStore.png" alt="Logo"></p>
 
 <br>
 
