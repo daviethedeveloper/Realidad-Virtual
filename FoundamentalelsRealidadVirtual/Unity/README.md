@@ -95,14 +95,15 @@
 ### The Unity Interface
 <p>The Unity interface is the main workspace where you can access all the tools and features of the editor. The interface consists of various windows, including the Scene View, Game View, Hierarchy, Inspector, Project, and Console. These windows can be rearranged and customized to suit your needs.</p>
 
-<p align="center"><img src="Unity-Images/Unity_Interface.png" alt="Logo" height="250" width="450"></p>
+<p align="center"><img src="Unity-Images/Unity_Scenes.png" alt="Logo" height="250" width="450"></p>
+
 
 <br>
 
 ### Scenes
 <p>A scene in Unity is a collection of game objects, lights, cameras, and other components that make up a level or area of your game. You can create and manage multiple scenes within a single project.</p>
 
-<p align="center"><img src="Unity-Images/Unity_Scenes.png" alt="Logo" height="250" width="450"></p>
+<p align="center"><img src="Unity-Images/Unity_Interface.png" alt="Logo" height="250" width="450"></p>
 
 <br>
 
@@ -110,14 +111,14 @@
 ### Game Objects
 <p>A game object is the basic unit of a scene in Unity. It represents any object in your game, such as a character, a weapon, or an environment asset. Game objects can be customized by adding components, such as colliders, scripts, and particle systems.</p>
 
-<p align="center"><img src="Unity-Images/Unity_Continue.png" alt="Logo" height="250" width="450"></p>
+<p align="center"><img src="Unity-Images/Unity_GameObject.png" alt="Logo" height="250" width="450"></p>
 
 <br>
 
 ### Components
 <p>Components are reusable pieces of code that you can attach to game objects to add functionality. Some examples of components include Rigidbody, Collider, Audio Source, and VR Camera. Components can be created and customized using C#.</p>
 
-<p align="center"><img src="Unity-Images/Unity_Continue.png" alt="Logo" height="250" width="450"></p>
+<p align="center"><img src="Unity-Images/Unity_Component.png" alt="Logo" height="350" width="300"></p>
 
 <br>
 
@@ -126,6 +127,7 @@
 
 <p align="center"><img src="Unity-Images/Unity_Script.png" alt="Logo" height="250" width="450"></p>
 <p align="center"><img src="Unity-Images/Unity_Script_Attach.png" alt="Logo" height="250" width="450"></p>
+<p align="center"><img src="Unity-Images/Unity_Script_Add.png" alt="Logo"height="" width="300"></p>
 
 <br>
 
@@ -148,7 +150,7 @@
 ### Deployment
 <p>Once you have completed your game or VR application, you can deploy it to various platforms, such as desktop, mobile, and VR devices. Unity provides built-in support for deployment to multiple platforms, making it easy to distribute your game to a wide audience.</p>
 
-<p align="center"><img src="Unity-Images/Unity_Deployment.png" alt="Logo" height="250" width="450"></p>
+<p align="center"><img src="Unity-Images/Unity_Deployment.png" alt="Logo" ></p>
 
 <br>
 
