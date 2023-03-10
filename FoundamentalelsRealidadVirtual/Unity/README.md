@@ -5,7 +5,7 @@
 <br>
 <br>
 
-* Unity is a popular game engine used for creating video games, simulations, and virtual reality experiences. It provides a powerful suite of tools for developing and deploying immersive VR applications across multiple platforms. With Unity, developers can create realistic environments, characters, and interactions using a wide range of pre-built assets, scripting tools, and visual editors. Additionally, Unity offers extensive support for VR hardware, making it easier for developers to build and test VR applications on a variety of devices. Overall, Unity is an essential tool for creating high-quality, engaging VR experiences.
+* Unity es un motor de juego popular que se utiliza para crear videojuegos, simulaciones y experiencias de realidad virtual. Proporciona un poderoso conjunto de herramientas para desarrollar e implementar aplicaciones de realidad virtual inmersivas en múltiples plataformas. Con Unity, los desarrolladores pueden crear entornos, personajes e interacciones realistas utilizando una amplia gama de activos preconstruidos, herramientas de secuencias de comandos y editores visuales. Además, Unity ofrece una amplia compatibilidad con el hardware de realidad virtual, lo que facilita a los desarrolladores la creación y prueba de aplicaciones de realidad virtual en una variedad de dispositivos. En general, Unity es una herramienta esencial para crear experiencias de realidad virtual atractivas y de alta calidad
 
 <br>
 <br>
@@ -15,7 +15,7 @@
 <br>
 <br>
 
-<p align="center">Go to the Unity website <a href="https://unity.com/" target="_blank">Unity</a> </p>
+<p align="center"> Go to the Unity website <a href="https://unity.com/" target="_blank">Unity</a> </p>
 <p align="center"><img src="Unity-Images/Unity_Website.png" alt="Logo" height="250" width="450"> </p>
 
 <br>
