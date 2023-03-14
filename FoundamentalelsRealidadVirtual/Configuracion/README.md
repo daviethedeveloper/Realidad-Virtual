@@ -223,7 +223,7 @@ Congratulations, your Unity project is now configured for Oculus Quest developme
 
 <br>
 
-<p align="center"><img src="Configuracion-Images/add_xr_origin(vr)" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/add_xr_origin" alt="Logo" > </p>
 
 <br>
 <br>
