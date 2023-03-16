@@ -9,13 +9,14 @@
 <br>
 
 <p align="center"><img src="Interactable-Images/2023-03-16.png" alt="Logo" ></p>
-![Alt text]()
+
 
 <br>
 <br>
 
 
 * Set up the player space to be a 6 meter by 6 meter area where the player can spawn
+* Set up tracking mode under XR Origin to Floor
 <br>
 
 <p align="center"><img src="Interactable-Images/Screenshot%202023-03-16%20145955.png" alt="Logo" ></p>
@@ -28,10 +29,12 @@
 
 
 * Create a cube and rename it to "Table". Drag it in the forward camera direction
+* Blue arrow is the forward direction of the game play
+* Add a Rigid Body Component to this table
 <br>
 
 <p align="center"><img src="Interactable-Images/2023-03-16%20(1).png" alt="Logo" ></p>
-![Alt text]()
+
 
 
 <br>
@@ -48,7 +51,9 @@
 
 
 
-* Go to the Unity Asset Store and download the "Medical Kit" asset
+* Go to the Unity Asset Store and download the <a href="https://assetstore.unity.com/packages/3d/props/tools/survival-game-tools-139872" target="_blank">"Survival Game Tools"</a> asset
+
+
 <br>
 
 <p align="center"><img src="Interactable-Images/2023-03-16%20(2).png" alt="Logo" ></p>
@@ -58,7 +63,7 @@
 <br>
 
 
-* Import the downloaded package into your Unity project
+* Download the Asset, then Import the downloaded package into your Unity project 
 <br>
 
 <p align="center"><img src="Interactable-Images/2023-03-16%20(5).png" alt="Logo" ></p>
