@@ -80,13 +80,6 @@
 
 * Now, as a child, add a text box and scale it to an appropriate size. The text might be facing the wrong way, so scale the font with the font size for the text size
 
-<br>
-<p align="center"><img src="UI-Images/2023-03-16%20(21).png)" alt="Logo" > </p>
-
-
-<br>
-<br>
-
 * Also add a button and a slider as a child node of the canvas. The button will have an on-click event for any action, and the slider will have an on-change event
 
 <br>
