@@ -2,7 +2,14 @@
 
 ## Unity using the XR Toolkit provided:
 
+
+* Set up the Plane for the player to step on
+
 * Start by making a canvas. To do this, right-click on the hierarchy and go to UI, then select Canvas
+
+![Alt text](UI-Images/Screenshot%202023-03-16%20173412.png)
+
+
 
 * Reposition the XR Right and face it towards the ideal position wanted
 
