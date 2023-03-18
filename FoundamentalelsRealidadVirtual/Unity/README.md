@@ -5,7 +5,7 @@
 <br>
 <br>
 
-* Unity es un motor de juego popular que se utiliza para crear videojuegos, simulaciones y experiencias de realidad virtual. Proporciona un poderoso conjunto de herramientas para desarrollar e implementar aplicaciones de realidad virtual inmersivas en múltiples plataformas. Con Unity, los desarrolladores pueden crear entornos, personajes e interacciones realistas utilizando una amplia gama de activos preconstruidos, herramientas de secuencias de comandos y editores visuales. Además, Unity ofrece una amplia compatibilidad con el hardware de realidad virtual, lo que facilita a los desarrolladores la creación y prueba de aplicaciones de realidad virtual en una variedad de dispositivos. En general, Unity es una herramienta esencial para crear experiencias de realidad virtual atractivas y de alta calidad
+* Unity es un popular motor de juego que se utiliza para crear videojuegos, simulaciones y experiencias de realidad virtual. Proporciona un poderoso conjunto de herramientas para desarrollar e implementar aplicaciones de realidad virtual inmersivas en múltiples plataformas. Con Unity, los desarrolladores pueden crear entornos, personajes e interacciones realistas utilizando una amplia gama de assets preconstruidos, herramientas de secuencias de comandos y editores visuales. Además, Unity ofrece una amplia compatibilidad con el hardware de realidad virtual, lo que facilita a los desarrolladores la creación y prueba de aplicaciones de realidad virtual en una variedad de dispositivos. En general, Unity es una herramienta esencial para crear experiencias de realidad virtual atractivas y de alta calidad
 
 <br>
 <br>
@@ -15,8 +15,8 @@
 <br>
 <br>
 
-* Go to the Unity website <a href="https://unity.com/" target="_blank">Unity</a> 
-* Click on the "Get started" button located at the top right corner of the website
+* Ve al sitio web de <a href="https://unity.com/es" target="_blank">Unity</a> 
+* Haz click en el boton azul "COMENCEMOS" que está en la esquina arriba derecha del sitio web
 <p align="center"><img src="Unity-Images/Unity_Website.png" alt="Logo" > </p>
 
 <br>
