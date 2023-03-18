@@ -12,7 +12,7 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 < br >
 
-<p align="center">< img src ="Configuracion-Images/a_1_step.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/a_1_step.png" alt="Logo" > </p>
 
 < br >
 < br >
@@ -29,7 +29,7 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 < br >
 
-<p align="center">< img src ="Configuracion-Images/a_2_step.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/a_2_step.png" alt="Logo" > </p>
 
 < br >
 < br >
@@ -38,7 +38,7 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 * Haz click en el botón "XR Plugin Management" que está último en la lista de la izquierda
 
-<p align="center">< img src ="Configuracion-Images/a_3_step.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/a_3_step.png" alt="Logo" > </p>
 
 < br >
 < br >
@@ -49,7 +49,7 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 < br >
 
-<p align="center">< img src ="Configuracion-Images/a_4_step.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/a_4_step.png" alt="Logo" > </p>
 
 < br >
 < br >
@@ -63,11 +63,11 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 < br >
 
-<p align ="center">< img src ="Configuracion-Images/a_5_step.png" alt="Logo" > </p>
+<p align ="center"><img src="Configuracion-Images/a_5_step.png" alt="Logo" > </p>
 
 < br >
 
-<p align ="center">< img src ="Configuracion-Images/a_6_step.png" alt="Logo" > </p>
+<p align ="center"><img src="Configuracion-Images/a_6_step.png" alt="Logo" > </p>
 
 < br >
 < br >
@@ -78,7 +78,7 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 < br >
 
-<p align ="center">< img src ="Configuracion-Imágenes/a_7_step.png" alt="Logo" > </p>
+<p align ="center"><img src="Configuracion-Imágenes/a_7_step.png" alt="Logo" > </p>
 
 < br >
 < br >
@@ -91,7 +91,7 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 < br >
 
-<p align ="center">< img src ="Configuracion-Images/a_3_step.png" alt="Logo" > </p>
+<p align ="center"><img src="Configuracion-Images/a_3_step.png" alt="Logo" > </p>
 
 < br >
 < br >
@@ -102,7 +102,7 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 < br >
 
-<p align ="center">< img src ="Configuracion-Images/a_8_step.png" alt="Logo" > </p>
+<p align ="center"><img src="Configuracion-Images/a_8_step.png" alt="Logo" > </p>
 
 < br >
 < br >
@@ -114,7 +114,7 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 < br >
 
-<p align="center">< img src ="Configuracion-Images/a_9_step.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/a_9_step.png" alt="Logo" > </p>
 
 < br >
 < br >
@@ -128,7 +128,7 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 < br >
 
-<p align="center">< img src ="Configuracion-Images/install_location.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/install_location.png" alt="Logo" > </p>
 
 < br >
 < br >
@@ -139,8 +139,8 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 < br >
 
-<p align="center">< img src =" Configuracion-Images/active_both.png" alt="Logo" > </p>
-<p align="center">< img src =" Configuracion-Images/active_both_2.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/active_both.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/active_both_2.png" alt="Logo" > </p>
 
 
 < br >
@@ -172,7 +172,7 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 < br >
 
-<p align="center">< img src ="Configuracion-Images/a_10_step.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/a_10_step.png" alt="Logo" > </p>
 
 
 < br >
@@ -184,9 +184,9 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 < br >
 
-<p align ="center">< img src ="Configuracion-Images/a_11_step.png" alt="Logo" > </p>
+<p align ="center"><img src="Configuracion-Images/a_11_step.png" alt="Logo" > </p>
 
-<p align="center">< img src ="Configuracion-Images/a_12_step.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/a_12_step.png" alt="Logo" > </p>
 
 < br >
 < br >
@@ -202,9 +202,9 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 < br >
 
-<p align="center">< img src ="Configuracion-Images/a_13_step.png" alt="Logo" > </p>
-<p align="center">< img src ="Configuracion-Images/a_14_step.png" alt="Logo" > </p>
-<p align="center">< img src ="Configuracion-Images/a_15_step.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/a_13_step.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/a_14_step.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/a_15_step.png" alt="Logo" > </p>
 
 < br >
 < br >
@@ -224,7 +224,7 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 
 < br >
 
-<p align="center">< img src ="Configuracion-Images/add_xr_origin.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/add_xr_origin.png" alt="Logo" > </p>
 
 < br >
 < br >
@@ -235,7 +235,7 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 
 < br >
 
-<p align="center">< img src ="Configuracion-Images/create_plane.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/create_plane.png" alt="Logo" > </p>
 
 < br >
 < br >
@@ -246,7 +246,7 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 
 < br >
 
-<p align ="center">< img src ="Configuracion-Images/track_floor.png" alt="Logo" > </p>
+<p align ="center"><img src="Configuracion-Images/track_floor.png" alt="Logo" > </p>
 
 < br >
 < br >
@@ -257,7 +257,7 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 
 < br >
 
-<p align="center">< img src ="Configuracion-Images/heir_xr_origin.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/heir_xr_origin.png" alt="Logo" > </p>
 
 < br >
 < br >
@@ -268,7 +268,7 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 
 < br >
 
-<p align="center">< img src ="Configuracion-Images/find_XRI_strass.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/find_XRI_strass.png" alt="Logo" > </p>
 
 < br >
 < br >
@@ -281,8 +281,8 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 
 < br >
 
-<p align="center">< img src ="Configuracion-Images/add_left_controller.png" alt="Logo" > </p>
-<p align="center">< img src ="Configuracion-Images/add_right_controller.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/add_left_controller.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/add_right_controller.png" alt="Logo" > </p>
 
 
 < br >
@@ -295,7 +295,7 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 
 < br >
 
-<p align="center">< img src ="Configuracion-Images/preset_manager_LR.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/preset_manager_LR.png" alt="Logo" > </p>
 
 < br >
 < br >
@@ -309,8 +309,8 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 
 < br >
 
-<p align="center">< img src ="Configuracion-Images/left_map_yes.png" alt="Logo" > </p>
-<p align="center">< img src ="Configuracion-Images/right_map_yes.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/left_map_yes.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/right_map_yes.png" alt="Logo" > </p>
 
 < br >
 < br >
@@ -320,7 +320,7 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 
 < br >
 
-<p align="center">< img src ="Configuracion-Images/imagen_final.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/imagen_final.png" alt="Logo" > </p>
 
 < br >
 < br >
