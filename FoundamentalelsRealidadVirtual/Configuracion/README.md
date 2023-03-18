@@ -78,7 +78,7 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 < br >
 
-<p align ="center"><img src="Configuracion-Imágenes/a_7_step.png" alt="Logo" > </p>
+<p align ="center"><img src="Configuracion-Images/a_7_step.png" alt="Logo" > </p>
 
 < br >
 < br >
