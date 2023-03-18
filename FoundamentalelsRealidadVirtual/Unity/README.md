@@ -1,157 +1,158 @@
 # Unity
 
-## What is Unity?
+## ¿Qué es Unity?
 
 <br>
 <br>
 
-* Unity es un popular motor de juego que se utiliza para crear videojuegos, simulaciones y experiencias de realidad virtual. Proporciona un poderoso conjunto de herramientas para desarrollar e implementar aplicaciones de realidad virtual inmersivas en múltiples plataformas. Con Unity, los desarrolladores pueden crear entornos, personajes e interacciones realistas utilizando una amplia gama de assets preconstruidos, herramientas de secuencias de comandos y editores visuales. Además, Unity ofrece una amplia compatibilidad con el hardware de realidad virtual, lo que facilita a los desarrolladores la creación y prueba de aplicaciones de realidad virtual en una variedad de dispositivos. En general, Unity es una herramienta esencial para crear experiencias de realidad virtual atractivas y de alta calidad
+* Unity es un popular motor de juego que se utiliza para crear videojuegos, simulaciones y experiencias de realidad virtual. Proporciona un poderoso conjunto de herramientas para desarrollar e implementar aplicaciones de realidad virtual inmersivas en múltiples plataformas. Con Unity, los desarrolladores pueden crear entornos, personajes e interacciones realistas utilizando una amplia gama de activos preconstruidos, herramientas de secuencias de comandos y editores visuales. Además, Unity ofrece una amplia compatibilidad con el hardware de realidad virtual, lo que facilita a los desarrolladores la creación y prueba de aplicaciones de realidad virtual en una variedad de dispositivos. En general, Unity es una herramienta esencial para crear experiencias de realidad virtual atractivas y de alta calidad
 
 <br>
 <br>
 
-## Downloading Unity
+## Cómo descargar Unity
 
 <br>
 <br>
 
-* Ve al sitio web de <a href="https://unity.com/es" target="_blank">Unity</a> 
-* Haz click en el boton azul "COMENCEMOS" que está en la esquina arriba derecha del sitio web
-<p align="center"><img src="Unity-Images/Unity_Website.png" alt="Logo" > </p>
+* Ve al sitio web de <a href="https://unity.com/es" target="_blank">Unity</a>
+* Haz click en el boton azul "COMENCEMOS" que esta en la esquina superior derecha del sitio web
+<p align="center"><img src="Unity-Images/Unity_Website.png" alt="Logotipo" > </p>
 
 <br>
 
-* Click on Unity Personal Plan to get started
-<p align="center"><img src="Unity-Images/Unity_Get_Started.png" alt="Logo"> </p>
+* Encuentra la opcion "Unity Personal Plan" y luego presiona "Start creating with Unity"
+<p align="center"><img src="Unity-Images/Unity_Get_Started.png" alt="Logotipo"> </p>
 
 <br>
 
-* Click on the "Download Unity" button
-<p align="center"><img src="Unity-Images/Unity_Download.png" alt="Logo"> </p>
+* Haz click en el botón "Dowload for Free"
+<p align="center"><img src="Unity-Images/Unity_Download.png" alt="Logotipo"> </p>
 
 <br>
 
-* On the "Download Unity Hub" page, click on the "Download Unity Hub" button for your operating system (Windows or Mac) 
-<p align="center"><img src="Unity-Images/Unity_Hub.png" alt="Logo"> </p>
+* En la opcion 1 "Dowload the Unity Hub" presione la opcion "Dowload xxxxxxxx" correspondeiente a tu sistema operativo
+<p align="center"><img src="Unity-Images/Unity_Hub.png" alt="Logotipo"> </p>
 
 <br>
 
-* Once the Unity Hub installer has downloaded, run it and follow the instructions to install Unity Hub on your computer
-<p align="center"><img src="Unity-Images/Unity_Hub_Screen.png" alt="Logo" > </p>
+* Una vez que se haya descargado el instalador de Unity Hub, ejecútelo y siga las instrucciones para instalar Unity Hub en su computadora
+<p align="center"><img src="Unity-Images/Unity_Hub_Screen.png" alt="Logotipo" > </p>
 
 <br>
 
-* After the installation process is complete, launch Unity Hub
-* In the Unity Hub window, click on the "Installs" tab located on the left-hand side of the window
+* Una vez que se complete el proceso de instalación, inicie Unity Hub
+* Inicia session o crea una cuenta en Unity
+* En la ventana de Unity Hub, haga clic en la pestaña "Installs" ubicada en el lado izquierdo de la ventana
 
-<p align="center"><img src="Unity-Images/Unity_Install_Version.png" alt="Logo" > </p>
-
-<br>
-
-* Click on the "Add" button located at the top right corner of the window
-<p align="center"><img src="Unity-Images/Unity_Installs.png" alt="Logo" > </p>
+<p align="center"><img src="Unity-Images/Unity_Install_Version.png" alt="Logotipo" > </p>
 
 <br>
 
-* Select the version of Unity you want to install by clicking on the "Unity 2020 LTS" option
-* Select the "Android Build Support" option by clicking on the checkbox next to it
-<p align="center"><img src="Unity-Images/Unity_Android_Support.png" alt="Logo"> </p>
-
+* Haz clic en el botón "Install Editor" ubicado en la esquina superior derecha de la ventana
+<p align="center"><img src="Unity-Images/Unity_Installs.png" alt="Logotipo" > </p>
 
 <br>
 
-* Click the "Next" button and follow the prompts to complete the installation process
-
-* Once the installation process is complete, go back to the Unity Hub window and click on the "Projects" tab located on the left-hand side of the window 
-
-* Click on the "New" button located at the top right corner of the window
-
-* Select the "3D" or "2D" option, depending on your preference, and choose a name and location for your new project
-
-* Click on the "Create" button to create the new project
-
-<p align="center"><img src="Unity-Images/Unity_Create.png" alt="Logo"></p>
-
-
-<br>
-<br>
-<br>
-
-
-## Comprender el Editor de Unity
-
-<br>
-<br>
-
-### Overview 
-* Unity Editor is a powerful integrated development environment (IDE) that allows game developers to create, design, and deploy games across multiple platforms, including VR (Virtual Reality) platforms. Here is a detailed description of the basic concepts and features of the Unity Editor, with a particular emphasis on VR development
-
+* Selecciona la versión de Unity que desea instalar haciendo clic en la opción "Unity 2020 LTS"
+* Selecciona la opción "Android Build Support" haciendo click en la casilla de verificación junto a ella
+<p align="center"><img src="Unity-Images/Unity_Android_Support.png" alt="Logotipo"> </p>
 
 
 <br>
 
-### The Unity Interface
-<p>The Unity interface is the main workspace where you can access all the tools and features of the editor. The interface consists of various windows, including the Scene View, Game View, Hierarchy, Inspector, Project, and Console. These windows can be rearranged and customized to suit your needs.</p>
+* Haz clic en el botón "Siguiente" y sigue las indicaciones para completar el proceso de instalación
 
-<p align="center"><img src="Unity-Images/Unity_Scenes.png" alt="Logo"></p>
+* Una vez que se complete el proceso de instalación, regresa a la ventana de Unity Hub y haz click en la pestaña "Proyectos" ubicada en el lado izquierdo de la ventana
+
+* Haz clic en el botón "New" ubicado en la esquina superior derecha de la ventana
+
+* Selecciona la opción "3D" o "2D", según tu preferencia, y elije un nombre y una ubicación para tu nuevo proyecto
+
+* Haz clic en el botón "Create Project" para crear el nuevo proyecto
+
+<p align="center"><img src="Unity-Images/Unity_Create.png" alt="Logotipo"></p>
+
+
+<br>
+<br>
+<br>
+
+
+## Cómo usar el Editor de Unity
+
+<br>
+<br>
+
+### Descripción general
+* Unity Editor es un potente entorno de desarrollo integrado (IDE) que permite a los desarrolladores de juegos crear, diseñar e implementar juegos en múltiples plataformas, incluidas las plataformas VR (realidad virtual). Aquí hay una descripción detallada de los conceptos básicos y las características de Unity Editor, con un enfoque particular en el desarrollo de VR.
+
 
 
 <br>
 
-### Scenes
-<p>A scene in Unity is a collection of game objects, lights, cameras, and other components that make up a level or area of your game. You can create and manage multiple scenes within a single project.</p>
+### La interfaz de Unity
+<p>La interfaz de Unity es el espacio de trabajo principal donde puede acceder a todas las herramientas y funciones del editor. La interfaz consta de varias ventanas, incluidas Vista de Escena, Vista de Juego, Jerarquía, Inspector, Proyecto y Consola (Scene View, Game View, Hierarchy, Inspector, Project, and Console) . Estas ventanas se pueden reorganizar y personalizar para satisfacer tus necesidades.</p>
 
-<p align="center"><img src="Unity-Images/Unity_Interface.png" alt="Logo"></p>
+<p align="center"><img src="Unity-Images/Unity_Scenes.png" alt="Logotipo"></p>
+
+
+<br>
+
+### Escenas (Scenes)
+<p>Una escena en Unity es un conjunto de objetos de juego, luces, cámaras y otros componentes que conforman un nivel o área de tu juego. Puede crear y administrar múltiples escenas dentro de un solo proyecto.</p>
+
+<p align="center"><img src="Unity-Images/Unity_Interface.png" alt="Logotipo"></p>
 
 <br>
 
 
-### Game Objects
-<p>A game object is the basic unit of a scene in Unity. It represents any object in your game, such as a character, a weapon, or an environment asset. Game objects can be customized by adding components, such as colliders, scripts, and particle systems.</p>
+### Objetos del juego (Game Objects)
+<p>Un objeto de juego es la unidad básica de una escena en Unity. Representa cualquier objeto en tu juego, como un personaje, un arma o un recurso ambiental. Los objetos del juego se pueden personalizar agregando componentes, como colisiones, scripts y sistemas de partículas.</p>
 
-<p align="center"><img src="Unity-Images/Unity_GameObject.png" alt="Logo"></p>
+<p align="center"><img src="Unity-Images/Unity_GameObject.png" alt="Logotipo"></p>
 
 <br>
 
-### Components
-<p>Components are reusable pieces of code that you can attach to game objects to add functionality. Some examples of components include Rigidbody, Collider, Audio Source, and VR Camera. Components can be created and customized using C#.</p>
+### Componentes
+<p>Los componentes son partes de código reutilizables que puedes agregar a los objetos del juego para añadir una funcionalidad. Algunos ejemplos de componentes incluyen Rigidbody, Collider, Audio Source y VR Camera. Los componentes se pueden crear y personalizar usando C#.</p>
 
-<p align="center"><img src="Unity-Images/Unity_Component.png" alt="Logo" ></p>
+<p align="center"><img src="Unity-Images/Unity_Component.png" alt="Logotipo" ></p>
 
 <br>
 
 ### Scripts
-<p>Scripts are written in C# and provide the logic and behavior for game objects. Scripts can be attached to game objects as components, and they can interact with other components and objects in the scene.</p>
+<p>Los scripts están escritos en C# y proporcionan la lógica y el comportamiento de los objetos del juego. Los scripts se pueden agregar a los objetos del juego como componentes y pueden interactuar con otros componentes y objetos en la escena.</p>
 
-<p align="center"><img src="Unity-Images/Unity_Script.png" alt="Logo" ></p>
-<p align="center"><img src="Unity-Images/Unity_Script_Attach.png" alt="Logo"></p>
-<p align="center"><img src="Unity-Images/Unity_Script_Add.png" alt="Logo"></p>
-
-<br>
-
-
-### Prefabs
-<p>A prefab is a reusable game object that can be instantiated multiple times in a scene or across different scenes. Prefabs can be created by selecting a game object and dragging it into the project window.</p>
-
-<p align="center"><img src="Unity-Images/Unity_Prefab_Environment.png" alt="Logo"></p>
-<p align="center"><img src="Unity-Images/Unity_Prefab_Overview.png" alt="Logo"></p>
-
-<br>
-
-### Asset Store
-<p>The Unity Asset Store is a marketplace where you can buy and download pre-built assets, such as 3D models, sound effects, and scripts, to use in your game. The Asset Store also provides a wealth of resources, including tutorials and sample projects, to help you learn and develop your skills.</p>
-
-<p align="center"><img src="Unity-Images/Unity_AssetStore.png" alt="Logo"></p>
-
-<br>
-
-### Deployment
-<p>Once you have completed your game or VR application, you can deploy it to various platforms, such as desktop, mobile, and VR devices. Unity provides built-in support for deployment to multiple platforms, making it easy to distribute your game to a wide audience.</p>
-
-<p align="center"><img src="Unity-Images/Unity_Deployment.png" alt="Logo" ></p>
+<p align="center"><img src="Unity-Images/Unity_Script.png" alt="Logotipo" ></p>
+<p align="center"><img src="Unity-Images/Unity_Script_Attach.png" alt="Logotipo"></p>
+<p align="center"><img src="Unity-Images/Unity_Script_Add.png" alt="Logotipo"></p>
 
 <br>
 
 
-### Summary
-<p>In summary, the Unity Editor provides a powerful and flexible development environment for creating games and VR applications. With its intuitive interface, powerful scripting capabilities, and built-in support for VR development, Unity is an excellent choice for anyone looking to develop high-quality games and VR experiences.</p>
+### Objetos Prefabricados (Prefabs)
+<p>Un Prefabs es un objeto de juego reutilizable que se puede utilizar varias veces en una o en diferentes escenas. Los Prefabs se pueden crear seleccionando un objeto del juego y arrastrándolo a la ventana del proyecto.</p>
+
+<p align="center"><img src="Unity-Images/Unity_Prefab_Environment.png" alt="Logotipo"></p>
+<p align="center"><img src="Unity-Images/Unity_Prefab_Overview.png" alt="Logotipo"></p>
+
+<br>
+
+### Tienda de Assets (Asset Store)
+<p>La tienda de Assets de Unity es un mercado donde puedes comprar y descargar Assets prediseñados, como modelos 3D, efectos de sonido y guiones, para usarlos en tu juego. La Tienda de activos también proporciona una gran cantidad de recursos, incluidos tutoriales y proyectos de muestra, para ayudarte a aprender y desarrollar tus habilidades.</p>
+
+<p align="center"><img src="Unity-Images/Unity_AssetStore.png" alt="Logotipo"></p>
+
+<br>
+
+### Despliegue (Deployment)
+<p>Una vez completado tu juego o aplicación de realidad virtual, puede implementarlo en varias plataformas, como dispositivos de escritorio, móviles y de realidad virtual. Unity proporciona soporte integrado para la implementación en múltiples plataformas, lo que facilita la distribución de tu juego a una amplia audiencia.</p>
+
+<p align="center"><img src="Unity-Images/Unity_Deployment.png" alt="Logotipo" ></p>
+
+<br>
+
+
+### Resumen
+<p>En resumen, "Unity Editor" proporciona un entorno de desarrollo potente y flexible para crear juegos y aplicaciones de realidad virtual. Con su interfaz intuitiva, potentes capacidades de secuencias de comandos y soporte integrado para el desarrollo de realidad virtual, Unity es una excelente opción para cualquiera que busque desarrollar juegos y experiencias de realidad virtual de alta calidad.</p>
