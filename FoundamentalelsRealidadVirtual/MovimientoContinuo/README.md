@@ -12,7 +12,12 @@
 
 * Add the Continuous Move provider to the scene to make sure it's action-based. This provider script is connected with the joystick of our hand controllers
 
+
+* Add the Locomotion System Component to the XR Origin - Drag and Drop the the XR Origin
+
+
 * Drag and drop the Locomotion System we just added onto the Continuous Move provider to connect them
+
 
 * Uncheck the Right hand actions since we only want to move with our Left Hand
 
