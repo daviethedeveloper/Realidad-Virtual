@@ -320,7 +320,7 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 
 < br >
 
-<p align="center"><img src="Configuracion-Images/imagen_final.png" alt="Logo" > </p>
+<p align="center"><img src="Configuracion-Images/final_picture.png" alt="Logo" > </p>
 
 < br >
 < br >
