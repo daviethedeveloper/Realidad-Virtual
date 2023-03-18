@@ -1,330 +1,331 @@
-# Configuracion
+# Configuración
 
 
 ## Importación de XR a Unity
 
 Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Quest
 
-<br>
+< br >
 
 
-* Open Unity and click on File > Build Settings
+* Abre Unity y haz click en File > Build Settings
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/a_1_step.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/a_1_step.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
 
 
-* Change the platform to Android
+* Cambia la plataforma a Android
 
-* Follow the link provided and use the Build settings suggested by Oculus for Unity
+* Sigue el enlace dado y usa la configuración de compilación sugerida por Oculus para Unity
 
-* Change the Texture Compression to ASTC
+* Cambia la compresión de textura a ASTC
 
-* Open Player Settings
+* Abre la configuración del jugador (Player Settings), parte inferior izquierda
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/a_2_step.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/a_2_step.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
 
 
-* Click on the "XR Plugin Management" button at the bottom left
+* Haz click en el botón "XR Plugin Management" que está último en la lista de la izquierda
 
-<p align="center"><img src="Configuracion-Images/a_3_step.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/a_3_step.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
 
 
-* Click "Install" for Unity's new XR plugin system
+* Haz click en "Install XR Plugin Management" para el nuevo sistema de complementos XR de Unity
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/a_4_step.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/a_4_step.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
 
+* Ve a la pestaña de Android (Ícono)
 
-* Check the Oculus toggle under the Plugin-in providers for Android
+* Marca la casilla "Oculus" en "Plugin-in Providers"
 
-* Click on the Oculus toggle and keep all default settings
+* Haz click en el interruptor de Oculus y mantén todas las configuraciones predeterminadas
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/a_5_step.png" alt="Logo" > </p>
+<p align ="center">< img src ="Configuracion-Images/a_5_step.png" alt="Logo" > </p>
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/a_6_step.png" alt="Logo" > </p>
+<p align ="center">< img src ="Configuracion-Images/a_6_step.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
 
 
-* You can see that this Plug in can be built for both quest and quest 2
+* Puede ver que este complemento se puede crear tanto para quest como para quest 2
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/a_7_step.png" alt="Logo" > </p>
+<p align ="center">< img src ="Configuracion-Imágenes/a_7_step.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
 
 
-* Under Player settings, enter your unique company name for "Company Name"
+* En la configuración del reproductor, ingrese el nombre único de su empresa para " Nombre de la empresa "
 
-* Follow Unity's suggestions for other settings
+* Siga las sugerencias de Unity para otras configuraciones
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/a_3_step.png" alt="Logo" > </p>
+<p align ="center">< img src ="Configuracion-Images/a_3_step.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
 
 
-* Choose "Linear" for Color Space
+* Elija "Lineal" para Espacio de color
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/a_8_step.png" alt="Logo" > </p>
+<p align ="center">< img src ="Configuracion-Images/a_8_step.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
 
-* Ensure that OPENGLES3 is the only Graphics API in Graphics APIs
+* Asegúrese de que OPENGLES3 sea la única API de gráficos en las API de gráficos
 
-* Check the "Default package name" toggle and enter your unique package
+* Marque la opción "Nombre del paquete predeterminado" e ingrese su paquete único
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/a_9_step.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/a_9_step.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
 
-* Set the Minimum API Level to min 23 Android 6.0 Marshmallow
+* Establezca el nivel mínimo de API en min 23 Android 6.0 Marshmallow
 
-* Set the Target API Level to Automatic (Highest Installed)
+* Establezca el nivel de la API de destino en Automático (el más alto instalado)
 
-* Set the Install Location to Automatic
+* Establecer la ubicación de instalación en automático
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/install_location.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/install_location.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
-* Check "Multi-threaded Rendering"
+* Marque "Representación de subprocesos múltiples"
 
-* Under Active Input Handling, select "Both"
+* En Gestión de entrada activa, seleccione "Ambos"
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/active_both.png" alt="Logo" > </p>
-<p align="center"><img src="Configuracion-Images/active_both_2.png" alt="Logo" > </p>
+<p align="center">< img src =" Configuracion-Images/active_both.png" alt="Logo" > </p>
+<p align="center">< img src =" Configuracion-Images/active_both_2.png" alt="Logo" > </p>
 
 
-<br>
-<br>
+< br >
+< br >
 
 
 
-* Go to the "Quality" tab under project settings
+* Vaya a la pestaña "Calidad" en la configuración del proyecto
 
-* Create a new Quality level for Oculus Quest named "Quest"
+* Crear un nuevo nivel de calidad para Oculus Quest llamado "Quest"
 
-* Uncheck all the other settings
+* Desmarque todas las demás configuraciones
 
-* Enable the Quest setting for the Android platform
+* Habilite la configuración de Quest para la plataforma Android
 
-* For PC, go with Ultra
+* Para PC, vaya con Ultra
 
-* Set the Pixel Light Count to 1
+* Establezca el recuento de píxeles de luz en 1
 
-* Disable Soft Particles
+* Deshabilitar partículas blandas
 
-* Select "Per Texture" for Anisotropic Textures
+* Seleccione "Por textura" para texturas anisotrópicas
 
-* Select "4x" for Anti Aliasing
+* Seleccione "4x" para Anti Aliasing
 
-* Be sure that "Realtime Reflection Probes" and "Billboards Face Camera" are selected
+* Asegúrese de que "Realtime Reflection Probes" y "Billboards Face Camera" estén seleccionados
 
-* Follow the link provided and import Unity's XR Interaction Toolkit
+* Siga el enlace proporcionado e importe el kit de herramientas de interacción XR de Unity
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/a_10_step.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/a_10_step.png" alt="Logo" > </p>
 
 
-<br>
-<br>
+< br >
+< br >
 
-* Go to File > Project Settings
+* Vaya a Archivo > Configuración del proyecto
 
-* Choose "Package Manager" and enable "Preview Packages"
+* Elija "Administrador de paquetes" y habilite "Vista previa de paquetes"
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/a_11_step.png" alt="Logo" > </p>
+<p align ="center">< img src ="Configuracion-Images/a_11_step.png" alt="Logo" > </p>
 
-<p align="center"><img src="Configuracion-Images/a_12_step.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/a_12_step.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
 
-* Click on Window > Package Manager
+* Haga clic en Ventana > Administrador de paquetes
 
-* Choose "Unity Registry"
+* Elija " Registro de la unidad "
 
-* Under "XR Interaction Toolkit", click on "Install"
+* En "XR Interaction Toolkit", haga clic en " Instalar "
 
-* Check the warning about the new input system from Unity, if you get one
+* Verifique la advertencia sobre el nuevo sistema de entrada de Unity, si obtiene uno
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/a_13_step.png" alt="Logo" > </p>
-<p align="center"><img src="Configuracion-Images/a_14_step.png" alt="Logo" > </p>
-<p align="center"><img src="Configuracion-Images/a_15_step.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/a_13_step.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/a_14_step.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/a_15_step.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
-Congratulations, your Unity project is now configured for Oculus Quest development!
+Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo de Oculus Quest.
 
 
-<br>
-<br>
-<br>
+< br >
+< br >
+< br >
 
-## Instructions for Setting up XR Rig for Unity:
+## Instrucciones para configurar XR Rig para Unity:
 
-<br>
+< br >
 
-* Add xr origin to heirarchy 
+* Agregar origen xr a la jerarquía 
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/add_xr_origin.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/add_xr_origin.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
 
 
-* Create a plane and add texture
+* Crea un plano y agrega textura
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/create_plane.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/create_plane.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
 
 
-* In the XR Rig script, set the "Tracking Origin Mode" field as "Floor"
+* En el script de XR Rig, configure el campo "Modo de origen de seguimiento" como " Piso "
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/track_floor.png" alt="Logo" > </p>
+<p align ="center">< img src ="Configuracion-Images/track_floor.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
 
 
-* Expand the XR Rig and you will see Camera offset, Left and Right Hand controllers
+* Expanda el XR Rig y verá el desplazamiento de la cámara, los controladores de mano izquierda y derecha
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/heir_xr_origin.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/heir_xr_origin.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
 
 
-* To set up the XR Rig for the new input system, go to Assets > Samples > XRI Toolkit > X.X.X  > Default Input Actions
+* Para configurar XR Rig para el nuevo sistema de entrada, vaya a Activos > Muestras > XRI Toolkit > XXX > Acciones de entrada predeterminadas
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/find_XRI_strass.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/find_XRI_strass.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
 
 
-* Click on "XRI Default Left Controller" and click on "Add to ActionBasedController Default"
+* Haga clic en "XRI Default Left Controller" y haga clic en "Add to ActionBasedController Default"
 
-* Do the same for the "XRI Default Right Controller"
+* Haga lo mismo para el "Controlador derecho predeterminado de XRI"
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/add_left_controller.png" alt="Logo" > </p>
-<p align="center"><img src="Configuracion-Images/add_right_controller.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/add_left_controller.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/add_right_controller.png" alt="Logo" > </p>
 
 
-<br>
-<br>
+< br >
+< br >
 
 
-* Go to Edit > Project Settings and go to Preset Manager
+* Vaya a Editar > Configuración del proyecto y vaya a Administrador de ajustes preestablecidos
 
-* Rename "Left" to "LeftHandController" and "Right" to "RightHandController"
+* Cambiar el nombre de "Left" a " LeftHandController " y "Right" a " RightHandController "
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/preset_manager_LR.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/preset_manager_LR.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
 
-* Delete the XR Rig and add it again
+* Elimine el XR Rig y agréguelo nuevamente
 
-* Make sure to reset its transform
+* Asegúrese de restablecer su transformación
 
-* Check that the hand controllers use the correct references, such as LeftHandController using "Left" and RightHandController using "Right" action references
+* Verifique que los controladores manuales usen las referencias correctas, como LeftHandController usando "Left" y RightHandController usando referencias de acción "Right".
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/left_map_yes.png" alt="Logo" > </p>
-<p align="center"><img src="Configuracion-Images/right_map_yes.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/left_map_yes.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/right_map_yes.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
 
-* Create two cubes as hands
+* Crea dos cubos como manos
 
-<br>
+< br >
 
-<p align="center"><img src="Configuracion-Images/final_picture.png" alt="Logo" > </p>
+<p align="center">< img src ="Configuracion-Images/imagen_final.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
-* Now, you are ready to view Unity
+* Ahora, estás listo para ver Unity
 
 <br>
 <br>
@@ -334,44 +335,45 @@ Congratulations, your Unity project is now configured for Oculus Quest developme
 ## Ver escena construida en VR
 
 
-To view the new VR scene on your Oculus headset using either Oculus Link or SideQuest, you can follow these steps:
+Para ver la nueva escena de realidad virtual en su visor Oculus mediante Oculus Link o SideQuest , puede seguir estos pasos:
 
-<br>
-<br>
-<br>
+< br >
+< br >
+< br >
 
-### Using Oculus Link:
+### Uso de Oculus Link:
 
-* Make sure your Oculus Quest is connected to your PC with a USB-C cable and that you have enabled Oculus Link mode on your headset.
+* Asegúrate de que tu Oculus Quest esté conectado a tu PC con un cable USB-C y de que hayas habilitado el modo Oculus Link en tus auriculares.
 
-* Open the Oculus PC app on your computer and click on the Devices tab.
+* Abra la aplicación Oculus para PC en su computadora y haga clic en la pestaña Dispositivos.
 
-* Make sure your Oculus Quest is connected and that it shows up under the Devices tab.
+* Asegúrate de que tu Oculus Quest esté conectado y que aparezca en la pestaña Dispositivos.
 
-* Launch the VR scene you created in Unity and click on File > Build Settings.
+* Inicie la escena de realidad virtual que creó en Unity y haga clic en Archivo > Configuración de compilación.
 
-* Select the platform as PC, then click on Build and Run.
+* Seleccione la plataforma como PC, luego haga clic en Build and Run.
 
-* After the scene is built, the Oculus Link window should appear on your PC. Put on your Oculus Quest headset and select the Oculus Link option in the Quest menu.
+* Una vez creada la escena, debería aparecer la ventana de Oculus Link en su PC. Ponte el visor Oculus Quest y selecciona la opción Oculus Link en el menú Quest.
 
-* Your VR scene should now be visible on your Oculus Quest and you can navigate through it using the controllers.
+* Su escena de realidad virtual ahora debería estar visible en su Oculus Quest y puede navegar a través de ella usando los controladores.
 
-<br>
-<br>
-<br>
+< br >
+< br >
+< br >
 
-### Using SideQuest:
+### Uso de SideQuest :
 
-* Connect your Oculus Quest to your PC with a USB-C cable.
+* Conecta tu Oculus Quest a tu PC con un cable USB-C.
 
-* Open SideQuest on your computer and make sure your Oculus Quest is recognized by the app.
+* Abra SideQuest en su computadora y asegúrese de que la aplicación reconozca su Oculus Quest.
 
-* Click on the Install APK button in SideQuest and select the APK file you want to install.
+* Haga clic en el botón Instalar APK en SideQuest y seleccione el archivo APK que desea instalar.
 
-* Wait for the installation to complete and then disconnect your Oculus Quest from your PC.
+* Espere a que se complete la instalación y luego desconecte su Oculus Quest de su PC.
 
-* Put on your Oculus Quest headset and navigate to the Unknown Sources section of the library.
+* Colóquese el visor Oculus Quest y vaya a la sección Fuentes desconocidas de la biblioteca.
 
-* Select the app you just installed and it should launch the VR scene you created in Unity.
+* Seleccione la aplicación que acaba de instalar y debería iniciar la escena de realidad virtual que creó en Unity.
 
-* Congratulations! You have now successfully viewed your new VR scene on your Oculus headset using either Oculus Link or SideQuest.
+* ¡Felicidades! Ahora ha visto con éxito su nueva escena de realidad virtual en su visor Oculus usando Oculus Link o SideQuest .
+
