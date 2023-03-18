@@ -43,33 +43,33 @@
 
 * Una vez que se complete el proceso de instalación, inicie Unity Hub
 * Inicia session o crea una cuenta en Unity
-* En la ventana de Unity Hub, haga clic en la pestaña "Installs" ubicada en el lado izquierdo de la ventana
+* En la ventana de Unity Hub, haga click en la pestaña "Installs" ubicada en el lado izquierdo de la ventana
 
 <p align="center"><img src="Unity-Images/Unity_Install_Version.png" alt="Logotipo" > </p>
 
 <br>
 
-* Haz clic en el botón "Install Editor" ubicado en la esquina superior derecha de la ventana
+* Haz click en el botón "Install Editor" ubicado en la esquina superior derecha de la ventana
 <p align="center"><img src="Unity-Images/Unity_Installs.png" alt="Logotipo" > </p>
 
 <br>
 
-* Selecciona la versión de Unity que desea instalar haciendo clic en la opción "Unity 2020 LTS"
+* Selecciona la versión de Unity que desea instalar haciendo click en la opción "Unity 2020 LTS"
 * Selecciona la opción "Android Build Support" haciendo click en la casilla de verificación junto a ella
 <p align="center"><img src="Unity-Images/Unity_Android_Support.png" alt="Logotipo"> </p>
 
 
 <br>
 
-* Haz clic en el botón "Siguiente" y sigue las indicaciones para completar el proceso de instalación
+* Haz click en el botón "Siguiente" y sigue las indicaciones para completar el proceso de instalación
 
 * Una vez que se complete el proceso de instalación, regresa a la ventana de Unity Hub y haz click en la pestaña "Proyectos" ubicada en el lado izquierdo de la ventana
 
-* Haz clic en el botón "New" ubicado en la esquina superior derecha de la ventana
+* Haz click en el botón "New" ubicado en la esquina superior derecha de la ventana
 
 * Selecciona la opción "3D" o "2D", según tu preferencia, y elije un nombre y una ubicación para tu nuevo proyecto
 
-* Haz clic en el botón "Create Project" para crear el nuevo proyecto
+* Haz click en el botón "Create Project" para crear el nuevo proyecto
 
 <p align="center"><img src="Unity-Images/Unity_Create.png" alt="Logotipo"></p>
 
