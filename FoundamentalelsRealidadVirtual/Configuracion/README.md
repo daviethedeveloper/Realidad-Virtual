@@ -5,17 +5,17 @@
 
 Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Quest
 
-< br >
+<br>
 
 
 * Abre Unity y haz click en File > Build Settings
 
-< br >
+<br>
 
 <p align="center"><img src="Configuracion-Images/a_1_step.png" alt="Logo" > </p>
 
-< br >
-< br >
+<br>
+<br>
 
 
 
@@ -27,12 +27,12 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 * Abre la configuración del jugador (Player Settings), parte inferior izquierda
 
-< br >
+<br>
 
 <p align="center"><img src="Configuracion-Images/a_2_step.png" alt="Logo" > </p>
 
-< br >
-< br >
+<br>
+<br>
 
 
 
@@ -40,19 +40,19 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 <p align="center"><img src="Configuracion-Images/a_3_step.png" alt="Logo" > </p>
 
-< br >
-< br >
+<br>
+<br>
 
 
 
 * Haz click en "Install XR Plugin Management" para el nuevo sistema de complementos XR de Unity
 
-< br >
+<br>
 
 <p align="center"><img src="Configuracion-Images/a_4_step.png" alt="Logo" > </p>
 
-< br >
-< br >
+<br>
+<br>
 
 
 * Ve a la pestaña de Android (Ícono)
@@ -61,27 +61,27 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 * Haz click en el interruptor de Oculus y mantén todas las configuraciones predeterminadas
 
-< br >
+<br>
 
 <p align ="center"><img src="Configuracion-Images/a_5_step.png" alt="Logo" > </p>
 
-< br >
+<br>
 
 <p align ="center"><img src="Configuracion-Images/a_6_step.png" alt="Logo" > </p>
 
-< br >
-< br >
+<br>
+<br>
 
 
 
 * Puede ver que este complemento se puede crear tanto para quest como para quest 2
 
-< br >
+<br>
 
 <p align ="center"><img src="Configuracion-Images/a_7_step.png" alt="Logo" > </p>
 
-< br >
-< br >
+<br>
+<br>
 
 
 
@@ -89,35 +89,35 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 * Siga las sugerencias de Unity para otras configuraciones
 
-< br >
+<br>
 
 <p align ="center"><img src="Configuracion-Images/a_3_step.png" alt="Logo" > </p>
 
-< br >
-< br >
+<br>
+<br>
 
 
 
 * Elija "Lineal" para Espacio de color
 
-< br >
+<br>
 
 <p align ="center"><img src="Configuracion-Images/a_8_step.png" alt="Logo" > </p>
 
-< br >
-< br >
+<br>
+<br>
 
 
 * Asegúrese de que OPENGLES3 sea la única API de gráficos en las API de gráficos
 
 * Marque la opción "Nombre del paquete predeterminado" e ingrese su paquete único
 
-< br >
+<br>
 
 <p align="center"><img src="Configuracion-Images/a_9_step.png" alt="Logo" > </p>
 
-< br >
-< br >
+<br>
+<br>
 
 
 * Establezca el nivel mínimo de API en min 23 Android 6.0 Marshmallow
@@ -126,25 +126,25 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 * Establecer la ubicación de instalación en automático
 
-< br >
+<br>
 
 <p align="center"><img src="Configuracion-Images/install_location.png" alt="Logo" > </p>
 
-< br >
-< br >
+<br>
+<br>
 
 * Marque "Representación de subprocesos múltiples"
 
 * En Gestión de entrada activa, seleccione "Ambos"
 
-< br >
+<br>
 
 <p align="center"><img src="Configuracion-Images/active_both.png" alt="Logo" > </p>
 <p align="center"><img src="Configuracion-Images/active_both_2.png" alt="Logo" > </p>
 
 
-< br >
-< br >
+<br>
+<br>
 
 
 
@@ -170,26 +170,26 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 * Siga el enlace proporcionado e importe el kit de herramientas de interacción XR de Unity
 
-< br >
+<br>
 
 <p align="center"><img src="Configuracion-Images/a_10_step.png" alt="Logo" > </p>
 
 
-< br >
-< br >
+<br>
+<br>
 
 * Vaya a Archivo > Configuración del proyecto
 
 * Elija "Administrador de paquetes" y habilite "Vista previa de paquetes"
 
-< br >
+<br>
 
 <p align ="center"><img src="Configuracion-Images/a_11_step.png" alt="Logo" > </p>
 
 <p align="center"><img src="Configuracion-Images/a_12_step.png" alt="Logo" > </p>
 
-< br >
-< br >
+<br>
+<br>
 
 
 * Haga clic en Ventana > Administrador de paquetes
@@ -200,7 +200,7 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 * Verifique la advertencia sobre el nuevo sistema de entrada de Unity, si obtiene uno
 
-< br >
+<br>
 
 <p align="center"><img src="Configuracion-Images/a_13_step.png" alt="Logo" > </p>
 <p align="center"><img src="Configuracion-Images/a_14_step.png" alt="Logo" > </p>
@@ -212,66 +212,66 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo de Oculus Quest.
 
 
-< br >
-< br >
-< br >
+<br>
+<br>
+<br>
 
 ## Instrucciones para configurar XR Rig para Unity:
 
-< br >
+<br>
 
 * Agregar origen xr a la jerarquía 
 
-< br >
+<br>
 
 <p align="center"><img src="Configuracion-Images/add_xr_origin.png" alt="Logo" > </p>
 
-< br >
-< br >
+<br>
+<br>
 
 
 
 * Crea un plano y agrega textura
 
-< br >
+<br>
 
 <p align="center"><img src="Configuracion-Images/create_plane.png" alt="Logo" > </p>
 
-< br >
-< br >
+<br>
+<br>
 
 
 
 * En el script de XR Rig, configure el campo "Modo de origen de seguimiento" como " Piso "
 
-< br >
+<br>
 
 <p align ="center"><img src="Configuracion-Images/track_floor.png" alt="Logo" > </p>
 
-< br >
-< br >
+<br>
+<br>
 
 
 
 * Expanda el XR Rig y verá el desplazamiento de la cámara, los controladores de mano izquierda y derecha
 
-< br >
+<br>
 
 <p align="center"><img src="Configuracion-Images/heir_xr_origin.png" alt="Logo" > </p>
 
-< br >
-< br >
+<br>
+<br>
 
 
 
 * Para configurar XR Rig para el nuevo sistema de entrada, vaya a Activos > Muestras > XRI Toolkit > XXX > Acciones de entrada predeterminadas
 
-< br >
+<br>
 
 <p align="center"><img src="Configuracion-Images/find_XRI_strass.png" alt="Logo" > </p>
 
-< br >
-< br >
+<br>
+<br>
 
 
 
@@ -279,26 +279,26 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 
 * Haga lo mismo para el "Controlador derecho predeterminado de XRI"
 
-< br >
+<br>
 
 <p align="center"><img src="Configuracion-Images/add_left_controller.png" alt="Logo" > </p>
 <p align="center"><img src="Configuracion-Images/add_right_controller.png" alt="Logo" > </p>
 
 
-< br >
-< br >
+<br>
+<br>
 
 
 * Vaya a Editar > Configuración del proyecto y vaya a Administrador de ajustes preestablecidos
 
 * Cambiar el nombre de "Left" a " LeftHandController " y "Right" a " RightHandController "
 
-< br >
+<br>
 
 <p align="center"><img src="Configuracion-Images/preset_manager_LR.png" alt="Logo" > </p>
 
-< br >
-< br >
+<br>
+<br>
 
 
 * Elimine el XR Rig y agréguelo nuevamente
@@ -307,23 +307,23 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 
 * Verifique que los controladores manuales usen las referencias correctas, como LeftHandController usando "Left" y RightHandController usando referencias de acción "Right".
 
-< br >
+<br>
 
 <p align="center"><img src="Configuracion-Images/left_map_yes.png" alt="Logo" > </p>
 <p align="center"><img src="Configuracion-Images/right_map_yes.png" alt="Logo" > </p>
 
-< br >
-< br >
+<br>
+<br>
 
 
 * Crea dos cubos como manos
 
-< br >
+<br>
 
 <p align="center"><img src="Configuracion-Images/final_picture.png" alt="Logo" > </p>
 
-< br >
-< br >
+<br>
+<br>
 
 * Ahora, estás listo para ver Unity
 
@@ -337,9 +337,9 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 
 Para ver la nueva escena de realidad virtual en su visor Oculus mediante Oculus Link o SideQuest , puede seguir estos pasos:
 
-< br >
-< br >
-< br >
+<br>
+<br>
+<br>
 
 ### Uso de Oculus Link:
 
@@ -357,9 +357,9 @@ Para ver la nueva escena de realidad virtual en su visor Oculus mediante Oculus 
 
 * Su escena de realidad virtual ahora debería estar visible en su Oculus Quest y puede navegar a través de ella usando los controladores.
 
-< br >
-< br >
-< br >
+<br>
+<br>
+<br>
 
 ### Uso de SideQuest :
 
