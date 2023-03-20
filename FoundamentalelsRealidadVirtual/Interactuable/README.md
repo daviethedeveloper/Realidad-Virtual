@@ -1,11 +1,11 @@
-# Interactuable
+# Interactuables
 
-## Get Started With Interaction
+## Comienza con la interacción
 
 <br>
 <br>
 
-* Add a plane to the scene and make sure gizmos are enabled
+* Agrega un avión a la escena y asegúrate de que los “gizmos” estén habilitados
 <br>
 
 <p align="center"><img src="Interactable-Images/2023-03-16.png" alt="Logo" ></p>
@@ -15,22 +15,21 @@
 <br>
 
 
-* Set up the player space to be a 6 meter by 6 meter area where the player can spawn
-* Set up tracking mode under XR Origin to Floor
+* Configura el espacio del jugador para que sea un área de 6 metros por 6 metros donde el jugador se puede generar (spawnear)
+* Configure el modo de seguimiento en “XR Origin” a “Floor”
 <br>
 
 <p align="center"><img src="Interactable-Images/Screenshot%202023-03-16%20145955.png" alt="Logo" ></p>
 <p align="center"><img src="Interactable-Images/Screenshot%202023-03-16%20150052.png" alt="Logo" ></p>
 <p align="center"><img src="Interactable-Images/Screenshot%202023-03-16%20150119.png" alt="Logo" ></p>
 
-
 <br>
 <br>
 
 
-* Create a cube and rename it to "Table". Drag it in the forward camera direction
-* Blue arrow is the forward direction of the game play
-* Add a Rigid Body Component to this table
+* Crea un cubo y cámbiale el nombre a "Table". Arrástralo hacia la dirección de la cámara delantera
+* La flecha azul es la dirección delantera del juego.
+* Agrega un componente “Rigid Body” a esta tabla
 <br>
 
 <p align="center"><img src="Interactable-Images/2023-03-16%20(1).png" alt="Logo" ></p>
@@ -41,7 +40,7 @@
 <br>
 
 
-* Create a "Material" folder in the "Assets" folder and create a material for the table with any color you prefer. Attach this material drag and drop to the Table object
+* Crea una carpeta "Material" en la carpeta "Asssets" y crea un material para la mesa con el color que prefieras. Adjunta este material arrastrando y soltando en el objeto “Table”
 <br>
 
 <p align="center"><img src="Interactable-Images/Screenshot%202023-03-16%20150323.png" alt="Logo" ></p>
@@ -51,7 +50,7 @@
 
 
 
-* Go to the Unity Asset Store and download the <a href="https://assetstore.unity.com/packages/3d/props/tools/survival-game-tools-139872" target="_blank">"Survival Game Tools"</a> asset
+* Ve al “Unity Asset Store” y descarga el <a href="https://assetstore.unity.com/packages/3d/props/tools/survival-game-tools-139872" target="_blank">"Survival Game Tools"</a> asset
 
 
 <br>
@@ -63,18 +62,18 @@
 <br>
 
 
-* Download the Asset, then Import the downloaded package into your Unity project 
+* Descarga el asset, luego importa el paquete descargado a tu proyecto de Unity
 <br>
 
-<p align="center"><img src="Interactable-Images/2023-03-16%20(5).png" alt="Logo" ></p>
-<p align="center"><img src="Interactable-Images/2023-03-16%20(6).png" alt="Logo" ></p>
+<p align="center"><img src="Imágenes-interactuables/2023-03-16%20(5).png" alt="Logotipo" ></p>
+<p align="center"><img src="Imágenes-interactuables/2023-03-16%20(6).png" alt="Logotipo" ></p>
 
 
 <br>
 <br>
 
 
-* In the "Project" tab of the "Scene View", go to "Prefabs" and drag the medical kit prefab to the scene view. Select the prefab and add a Mesh Collider and Rigid Body component. Make sure to change the collision detection mode of the Rigid Body to "Continuous Speculative"
+* En la pestaña "Project" de la "Scene View", ve a "Prefabs" y arrastre el kit médico prefabricado a la vista de escena. Seleccione el prefabricado y agregue un componente “Mesh Collider” y “Rigid Body”. Asegúrate de cambiar el modo de detección de colisión del cuerpo rígido a "Continuous Speculative"
 <br>
 
 <p align="center"><img src="Interactable-Images/2023-03-16%20(7).png" alt="Logo" ></p>
@@ -83,10 +82,10 @@
 <br>
 <br>
 
-* To set up the Default Hand Controller, delete all components attached to the right hand controller in a specific order.
-Add the following components: XR Controller Action Based, XR Direct Interactor, and Sphere Collider. Resize the sphere collider as necessary
+* Para configurar el controlador manual predeterminado, elimina todos los componentes conectados al controlador manual derecho en un orden específico.
+Agrega los siguientes componentes: “XR Controller Action Based”, “XR Direct Interactor” y “Sphere Collider”. Cambia el tamaño del colisionador de esferas según sea necesario.
 
-* The XR Ray Interactor component on the left and right hand XR Rig is preset with a ray interactor that shoots out a line from the hand and checks if it can interact with anything that line hits. If it can interact, it will bring the item to the hand
+* El componente “XR Ray Interactor” en el “XR Rig” de la mano izquierda y derecha está preestablecido con un” ray interactor” que dispara un rayo desde la mano y verifica si puede interactuar con cualquier cosa que golpee el rayo. Si el objeto puede interactuar eso traerá el objeto a la mano.
 
 <br>
 
@@ -98,7 +97,7 @@ Add the following components: XR Controller Action Based, XR Direct Interactor, 
 <br>
 
 
-* There is also a Direct Interactor that can be used, which is a sphere collision object. If there is a collider, it will be picked up. You can only choose one, but there is a possible way to make them a parent object if necessary. The XR Ray Interactor can work with UI and teleportation. It has a preset Interaction Line Visual that turns red and white when it knows what it can pick up
+* También se puede utilizar un interactor directo, que es un objeto de colisión de esferas. Si hay un colisionador, será recogido. Solo puede elegir uno, pero existe una forma posible de convertirlo en un objeto principal si es necesario. El “XR Ray Interactor” puede funcionar con interfaz de usuario y teletransportación. Tiene una línea visual de interacción preestablecida que se vuelve roja y blanca dependiendo en lo que puede recoger o no.
 
 <br>
 
@@ -108,7 +107,7 @@ Add the following components: XR Controller Action Based, XR Direct Interactor, 
 <br>
 
 
-* Add the XR Grab Interactable component to the objects you want to interact with. This will contain the data for anything that can be interacted with
+* Agrega el componente interactivo “XR Grab” a los objetos con los que deseas interactuar. Esto contendrá los datos de cualquier cosa con la que se pueda interactuar.
 <br>
 
 <p align="center"><img src="Interactable-Images/2023-03-16%20(11).png" alt="Logo" ></p>
@@ -118,8 +117,8 @@ Add the following components: XR Controller Action Based, XR Direct Interactor, 
 <br>
 
 
-* Use Layer Mask to choose which collider to interact with if there are many colliders on an object.
-You can set up a custom reticle for when hovering or interacting with an object. This is a 2D sprite that maps to the surface of the object
+* Usa “Layer Mask” para elegir con qué colisionador interactuar si hay muchos colisionadores en un objeto.
+Puedes configurar una retícula personalizada para cuando se desplaza o interactúa con un objeto. Este es un “sprite” 2D que se asigna a la superficie del objeto.
 <br>
 <p align="center"><img src="Interactable-Images/Screenshot%202023-03-16%20151908.png" alt="Logo" ></p>
 
@@ -127,7 +126,7 @@ You can set up a custom reticle for when hovering or interacting with an object.
 <br>
 <br>
 
-* For the right hand sphere collider, check IsTrigger to allow it to go through and have a trigger interaction
+* Para el colisionador de esferas de la derecha, marca “IsTrigger” para permitir que pase y tenga una interacción de activación
 <br>
 
 <p align="center"><img src="Interactable-Images/Screenshot%202023-03-16%20160956.png" alt="Logo" ></p>
@@ -137,7 +136,7 @@ You can set up a custom reticle for when hovering or interacting with an object.
 <br>
 
 
-* Make sure to uncheck Anchor Control for both left and right hand XR Ray Interactor when walking and holding an object
+* Asegúrate de desmarcar “Anchor Control” para el Interactor de rayos XR de mano izquierda y derecha al caminar y sostener un objeto
 <br>
 <p align="center"><img src="Interactable-Images/Screenshot%202023-03-16%20151908.png" alt="Logo" ></p>
 <p align="center"><img src="Interactable-Images/2023-03-16%20(14).png" alt="Logo" ></p>
@@ -146,7 +145,7 @@ You can set up a custom reticle for when hovering or interacting with an object.
 <br>
 
 
-* For movement type under XR Grab Interactable, choose between physics space, velocity tracking, kinematic, or instantaneous teleportation depending on the desired effect
+* Para el tipo de movimiento en” XR Grab Interactable”, elije entre espacio físico, seguimiento de velocidad, teletransportación cinemática o instantánea según el efecto que desees.
 <br>
 
 <p align="center"><img src="Interactable-Images/2023-03-16%20(15).png" alt="Logo" ></p>
@@ -156,29 +155,29 @@ You can set up a custom reticle for when hovering or interacting with an object.
 <br>
 
 
-## Step-by-Step Guide Understanding XR Grab Interactable 
+## Guía paso a paso para comprender “XR Grab Interactable”
 
 <br>
 
-### Movement Type
-This allows you to choose how the interactable should move when it's picked up. The options are: Kinematic, Velocity Tracking, and Instantaneous Teleport
+### Tipo de movimiento (Movement Type)
+Esto te permite elegir cómo se debe mover el interactivo cuando se levanta. Las opciones son: cinemática (Kinematic), seguimiento de velocidad (Velocity Tracking) y teletransporte instantáneo (Instatanius Teleport)
 <p align="center"><img src="Interactable-Images/Screenshot%202023-03-16%20152035.png" alt="Logo" ></p>
 
 
 <br>
 <br>
 
-### Interaction Manager
-This allows you to specify which interaction manager the interactable should use. This is useful if you have multiple interaction managers in your scene
+### Administrador de interacciones (Interaction Manager)
+Esto te permite especificar qué administrador de interacción debe usar el interactivo. Esto es útil si tiene múltiples administradores de interacción en tu escena
 <p align="center"><img src="Interactable-Images/Screenshot%202023-03-16%20154040.png" alt="Logo" ></p>
 
 
 <br>
 <br>
 
-### Interaction Layer Mask
-This allows you to choose which layers the interactable can interact with. For example, if you have a gun that shouldn't be able to interact with other guns, you can use this to restrict the interaction to only certain layers.
-Selecting Interactor Type - This allows you to choose which type of interactor will be used to select the interactable. The options are: Ray Interactor, Direct Interactor, and Hybrid Interactor
+### Máscara de capa de interacción (Interaction Layer Mask)
+Esto te permite elegir con qué capas puede interactuar el interactivo. Por ejemplo, si tienes un arma que no debería poder interactuar con otras armas, puede usar esto para restringir la interacción solo a ciertas capas.
+Selección del tipo de interactuador: esto te permite elegir qué tipo de interactuador se usará para seleccionar el interactuable. Las opciones son: Ray Interactor, Direct Interactor e Hybrid Interactor
 
 <p align="center"><img src="Interactable-Images/Screenshot%202023-03-16%20154040.png" alt="Logo" ></p>
 
@@ -188,8 +187,8 @@ Selecting Interactor Type - This allows you to choose which type of interactor w
 <br>
 
 
-### Custom Reticle
-This allows you to specify a custom reticle for the interactable. For example, if you have a gun, you could use a crosshair reticle that appears when the player is aiming
+### Retícula personalizada
+Esto te permite especificar una retícula personalizada para el interactuable. Por ejemplo, si tienes un arma, puedes usar una retícula en forma de cruz que aparece cuando el jugador apunta
 <p align="center"><img src="Interactable-Images/Screenshot%202023-03-16%20154134.png" alt="Logo" ></p>
 
 
@@ -198,24 +197,22 @@ This allows you to specify a custom reticle for the interactable. For example, i
 
 
 ### On First Hover Enter
-This allows you to specify a Unity Event that will be triggered when the player first hovers over the interactable
+Estote permite especificar un evento de Unity que se activará cuando el jugador se desplace por primera vez sobre un elemento interactuable.
 <p align="center"><img src="Interactable-Images/Screenshot%202023-03-16%20163245.png" alt="Logo" ></p>
 
 
-
 <br>
 <br>
 
-### Throw
-This allows you to specify the throw settings for the interactable. You can adjust things like the throw force, the direction of the throw, and the amount of randomness
+### Tirar (Throw)
+Esto te permite especificar la configuración de tiro para el interactuable. Puedes ajustar cosas como la fuerza de lanzamiento, la dirección del lanzamiento y la cantidad de aleatoriedad.
 <p align="center"><img src="Interactable-Images/Screenshot%202023-03-16%20154225.png" alt="Logo" ></p>
-]
 
 <br>
 <br>
 
-### Attach Transform
-This allows you to specify a transform that the interactable will snap to when it's picked up. For example, if you have a tool that should snap to the player's hand when it's picked up, you can use this to specify the hand transform
+### Adjuntar transformación (Attach Transform)
+Esto te permite especificar una transformación a la que se ajustará el interactivo cuando se recoja. Por ejemplo, si tienes una herramienta que debe ajustarse a la mano del jugador cuando se levanta, puede usarse para especificar la transformación de la mano.
 <p align="center"><img src="Interactable-Images/Screenshot%202023-03-16%20154249.png" alt="Logo" ></p>
 
 
@@ -224,17 +221,17 @@ This allows you to specify a transform that the interactable will snap to when i
 <br>
 
 ### On Last Hover Exit
-This allows you to specify a Unity Event that will be triggered when the player stops hovering over the interactable
+Esto te permite especificar un evento de Unity que se activará cuando el jugador deje de pasar el mouse sobre el elemento interactuable.
 
-### On Select Entered
-This allows you to specify a Unity Event that will be triggered when the player selects the interactable
+### Al seleccionar ingresado (On Select Entered)
+Esto te permite especificar un evento de Unity que se activará cuando el jugador seleccione el elemento interactuable.
 
-### On Select Exited
-This allows you to specify a Unity Event that will be triggered when the player deselects the interactable
+### Al seleccionar Salir (On Select Exited)
+Esto te permite especificar un evento de Unity que se activará cuando el jugador anule la selección de la interacción.
 
-### On Activate
-This allows you to specify a Unity Event that will be triggered when the interactable is activated
-<p align="center"><img src="Interactable-Images/2023-03-16%20(15).png" alt="Logo" ></p>
+### Al activar (On activate)
+Esto te permite especificar un evento de Unity que se activará cuando se active el interactivo.
+<p align="center"><img src="Imágenes-interactuables/2023-03-16%20(15).png" alt="Logotipo" ></p>
 
 
 
@@ -242,7 +239,6 @@ This allows you to specify a Unity Event that will be triggered when the interac
 <br>
 <br>
 
-## Overview
+## Descripción general
 
-XR Grab Interactable in Unity XR Toolkit gives you a lot of flexibility when it comes to specifying how interactable objects in your scene will behave. By understanding each of the different options available, you can create complex interactions that feel natural and intuitive for the player.
-
+“XR Grab Interactable” en “Unity XR Toolkit” te brinda mucha flexibilidad cuando se trata de especificar cómo se comportarán los objetos interactuables en tu escena. Al comprender cada una de las diferentes opciones disponibles, puedes crear interacciones complejas que se sientan naturales e intuitivas para el jugador.
