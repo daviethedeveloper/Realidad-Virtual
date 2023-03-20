@@ -1,115 +1,116 @@
-# InterfazDeUsuario
+## Interfaz De Usuario
 
-## Unity using the XR Toolkit provided:
+## Unity usando el “XR Toolkit” provisto:
 
-<br>
-<br>
+< br >
+< br >
 
-* Set up the Plane for the player to step on - Remember to to reset this to (0, 0, 0)
+* Configura el plano para que el jugador lo pise - Recuerda restablecer esto a (0, 0, 0)
 
-* Start by making a canvas. To do this, right-click on the hierarchy and go to UI, then select Canvas
+* Comienza por hacer un lienzo. Para hacer esto, haz clic derecho en la jerarquía y vaya a UI, luego seleccione “Canvas”
 
-<br>
+< br >
 <p align="center"><img src="UI-Images/Screenshot%202023-03-16%20173412.png" alt="Logo" > </p>
 
 
-<br>
-<br>
+< br >
+< br >
 
-* Reposition the XR Right and face it towards the ideal position wanted
+* Vuelve a colocar el “XR Right” y colócalo en la posición ideal que desees
 
-<br>
+< br >
 <p align="center"><img src="UI-Images/2023-03-16%20(17).png" alt="Logo" > </p>
 
 
-<br>
-<br>
+< br >
+< br >
 
-* The Canvas comes with an event system, which you need to put at the top of the hierarchy
+* Canvas viene con un sistema de eventos, que debes colocar en la parte superior de la jerarquía
 
-<br>
+< br >
 <p align="center"><img src="UI-Images/2023-03-16%20(18).png" alt="Logo" > </p>
 
 
 
-<br>
-<br>
+< br >
+< br >
 
-* The Canvas has components attached, with Screen Space Overlay being the render mode it is on at the moment. Double-click on the Canvas to see a giant canvas and on the corner, you can see the actual world
+* El lienzo tiene componentes adjuntos, siendo “Screen Space Overlay” el modo de representación en el que te encuentras en este momento. Haz doble clic en el lienzo para ver un lienzo gigante y en la esquina puedes ver el mundo real
 
-<br>
+< br >
 <p align="center"><img src="UI-Images/Screenshot%202023-03-16%20173623.png" alt="Logo" > </p>
 
 
-<br>
-<br>
+< br >
+< br >
 
-* If you run it now, you won't be able to see the canvas in VR. There are two other options: Screen Space Camera and World Space
-* To use the Screen Space Camera option, you will see the canvas but it will be stuck to the camera and will follow wherever the player looks
+* Si lo ejecutas ahora, no podrás ver el lienzo en VR. Hay otras dos opciones: Screen Space Camera y World Space
+* Al usar la opción Screen Space Camera, verás el lienzo pero estará pegado a la cámara y seguirá a donde mire el jugador.
 
-<br>
+< br >
 
-* To use the World Space option, you will require an event camera. Drag in the event camera and scale it down to an appropriate size. Adjust the scale, with x and y being the same values to avoid stretching the text and buttons
+* Para usar la opción World Space, necesitarás una cámara de eventos. Arrastra la cámara de eventos y reducirla a un tamaño adecuado. Ajusta la escala, siendo “x“ e “y” los mismos valores para evitar estirar el texto y los botones
 
-<br>
+< br >
 <p align="center"><img src="UI-Images/Screenshot%202023-03-16%20173713.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
-* Adjust the height and width of the canvas on the rect transform
-* To interact with UI, inside the canvas make sure that the Tracked Device Raycaster - in the event system that came with the canvas - is set to use the XRI UI Input module, which will allow the raycast from the hand nodes controllers to interact with the canvas
+* Ajusta la altura y el ancho del lienzo en el “rect transform”
+* Para interactuar con la interfaz de usuario, dentro del lienzo, asegúrate de que “Tracked Device Raycaster”, el sistema de eventos que vino con el lienzo (Canvas), esté configurado para usar el módulo “XRI UI Input”, que permitirá que el “raycast” de los controles manuales interactúe con el lienzo
 
-<br>
+< br >
 <p align="center"><img src="UI-Images/Screenshot%202023-03-16%20190945.png" alt="Logo" > </p>
 <p align="center"><img src="UI-Images/Screenshot%202023-03-16%20191100.png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
 
-* As a child component, create a background image to this canvas - adjust the scale by holding CTRL + ALT on the keyboard and the bottom left option click on it 
+* Como componente secundario, crea una imagen de fondo para este lienzo: ajusta la escala manteniendo presionadas las teclas CTRL + ALT en el teclado y haz clic en la opción inferior izquierda.
 
-<br>
+< br >
 <p align="center"><img src="UI-Images/Screenshot%202023-03-16%20175142.png" alt="Logo" > </p>
 <p align="center"><img src="UI-Images/2023-03-16%20(19).png" alt="Logo" > </p>
 <p align="center"><img src="UI-Images/2023-03-16%20(20).png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
-* Now, as a child, add a text box and scale it to an appropriate size. The text might be facing the wrong way, so scale the font with the font size for the text size
+* Ahora, como “child”, añade un cuadro de texto y escálalo a un tamaño apropiado. Es posible que el texto esté orientado de manera incorrecta, así que escala la fuente con el tamaño de fuente para el tamaño del texto
 
-* Also add a button and a slider as a child node of the canvas. The button will have an on-click event for any action, and the slider will have an on-change event
+* Agrega también un “Button” y un “Slider” como un nodo secundario del lienzo. El botón tendrá un evento de one-click para cualquier acción y el control deslizante tendrá un evento on-change. 
 
-<br>
+< br >
 <p align="center"><img src="UI-Images/2023-03-16%20(21).png" alt="Logo" > </p>
 <p align="center"><img src="UI-Images/2023-03-16%20(22).png" alt="Logo" > </p>
 
 
 
-<br>
-<br>
+< br >
+< br >
 
-* The Raycast Mask on the XR Ray Interactor for both hands needs to be set to only UI. The invalid Gradient to Zero alpha, the raycast will only show if it is on the canvas in the UI
+* El “Raycast Mask“ en el “XR Ray Interactor “para ambas manos debe configurarseen “only UI”. El “Gradient to Zero alpha”, el “raycast” solo se mostrará si está en el lienzo en la interfaz de usuario
 
-<br>
+< br >
 <p align="center"><img src="UI-Images/2023-03-16%20(24).png" alt="Logo" > </p>
 <p align="center"><img src="UI-Images/2023-03-16%20(25).png" alt="Logo" > </p>
 
-<br>
-<br>
+< br >
+< br >
 
-* Make sure that the event system has a XR UI Input Module 
+* Asegúrate de que el sistema de eventos tenga un “XR UI Input Module”
 
-<br>
+< br >
 <p align="center"><img src="UI-Images/Screenshot%202023-03-16%20191100.png" alt="Logo" > </p>
 
 
-<br>
-<br>
+< br >
+< br >
 
-* Congrats, now you can see your results
+* Felicidades, ahora puedes ver tus resultados
 
-<br>
+< br >
 <p align="center"><img src="UI-Images/2023-03-16%20(26).png" alt="Logo" > </p>
+
