@@ -36,7 +36,7 @@
 * Create another empty game object under the Right Hand Parent and call it "Right Hand Base Controller"
 
 <p align="center"><img src="Teleportation_Images/2023-03-19%20(3).png" alt="Logotipo"></p>
-<p align="center"><img src="Teleportation_Images/2023-03-19%20(4).png/2023-03-19%20(1).png" alt="Logotipo"></p>
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(4).png" alt="Logotipo"></p>
 
 
 
