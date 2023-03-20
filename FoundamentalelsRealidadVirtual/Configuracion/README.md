@@ -166,9 +166,9 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 * Seleccione "4x" para Anti Aliasing
 
-* Asegúrese de que "Realtime Reflection Probes" y "Billboards Face Camera" estén seleccionados
+* Asegúrate de que "Realtime Reflection Probes" y "Billboards Face Camera" estén seleccionados
 
-* Siga el enlace proporcionado e importe el kit de herramientas de interacción XR de Unity
+* Sigue el enlace proporcionado e importa el kit de herramientas de interacción XR de Unity
 
 <br>
 
@@ -178,9 +178,9 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 <br>
 <br>
 
-* Vaya a Archivo > Configuración del proyecto
+* Ve a File > Project Settings
 
-* Elija "Administrador de paquetes" y habilite "Vista previa de paquetes"
+* Elije "Package Manager" macra "Enable Preview Packages"
 
 <br>
 
@@ -192,13 +192,13 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 <br>
 
 
-* Haga clic en Ventana > Administrador de paquetes
+* Haz click en la ventana "Package Manager"
 
-* Elija " Registro de la unidad "
+* Elije "Unity Recorder"
 
-* En "XR Interaction Toolkit", haga clic en " Instalar "
+* En "XR Interaction Toolkit", haz click en " Install "
 
-* Verifique la advertencia sobre el nuevo sistema de entrada de Unity, si obtiene uno
+* Verifica la advertencia sobre el nuevo sistema de entrada de Unity.
 
 <br>
 
@@ -209,7 +209,7 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 < br >
 < br >
 
-Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo de Oculus Quest.
+Felicidades, tu proyecto de Unity ahora está configurado para el desarrollo de Oculus Quest.
 
 
 <br>
@@ -220,7 +220,7 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 
 <br>
 
-* Agregar origen xr a la jerarquía 
+* Agrega origen xr a "Hierarchy"
 
 <br>
 
@@ -242,7 +242,7 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 
 
 
-* En el script de XR Rig, configure el campo "Modo de origen de seguimiento" como " Piso "
+* En el script de XR Rig, configura el campo "Tracking Origin Mode" como "Floor"
 
 <br>
 
@@ -253,7 +253,7 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 
 
 
-* Expanda el XR Rig y verá el desplazamiento de la cámara, los controladores de mano izquierda y derecha
+* Expande el XR Rig y verás el desplazamiento de la cámara, los controladores de la mano izquierda y derecha
 
 <br>
 
@@ -264,7 +264,7 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 
 
 
-* Para configurar XR Rig para el nuevo sistema de entrada, vaya a Activos > Muestras > XRI Toolkit > XXX > Acciones de entrada predeterminadas
+* Para configurar XR Rig para el nuevo input, ve a Assets > Samples > XRI Toolkit > XXX > Started Assets
 
 <br>
 
@@ -275,9 +275,9 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 
 
 
-* Haga clic en "XRI Default Left Controller" y haga clic en "Add to ActionBasedController Default"
+* Haz click en "XRI Default Left Controller" y click en "Add to ActionBasedController Default"
 
-* Haga lo mismo para el "Controlador derecho predeterminado de XRI"
+* Haz lo mismo para el "XRI Default Right Controller"
 
 <br>
 
@@ -289,9 +289,9 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 <br>
 
 
-* Vaya a Editar > Configuración del proyecto y vaya a Administrador de ajustes preestablecidos
+* Ve a Edit > Project Settings y luego "Preset Manager"
 
-* Cambiar el nombre de "Left" a " LeftHandController " y "Right" a " RightHandController "
+* Cambia el nombre de "Left" a "LeftHandController" y "Right" a "RightHandController"
 
 <br>
 
@@ -301,11 +301,11 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 <br>
 
 
-* Elimine el XR Rig y agréguelo nuevamente
+* Elimina el XR Rig y agrégalo nuevamente
 
-* Asegúrese de restablecer su transformación
+* Asegúrate de restablecer la transformación
 
-* Verifique que los controladores manuales usen las referencias correctas, como LeftHandController usando "Left" y RightHandController usando referencias de acción "Right".
+* Verifica que los controles manuales usen las referencias correctas, como LeftHandController usando "Left" y RightHandController usando referencias de acción "Right".
 
 <br>
 
@@ -316,7 +316,7 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 <br>
 
 
-* Crea dos cubos como manos
+* Crea dos cubos como si fueran manos
 
 <br>
 
@@ -332,10 +332,10 @@ Felicitaciones, tu proyecto de Unity ahora está configurado para el desarrollo 
 <br>
 
 
-## Ver escena construida en VR
+## Ver la escena construida en VR
 
 
-Para ver la nueva escena de realidad virtual en su visor Oculus mediante Oculus Link o SideQuest , puede seguir estos pasos:
+Para ver la nueva escena de realidad virtual en su visor Oculus mediante Oculus Link o SideQuest sigue estos pasos:
 
 <br>
 <br>
@@ -345,17 +345,17 @@ Para ver la nueva escena de realidad virtual en su visor Oculus mediante Oculus 
 
 * Asegúrate de que tu Oculus Quest esté conectado a tu PC con un cable USB-C y de que hayas habilitado el modo Oculus Link en tus auriculares.
 
-* Abra la aplicación Oculus para PC en su computadora y haga clic en la pestaña Dispositivos.
+* Abre la aplicación Oculus para PC en su computadora y haga clic en la pestaña Dispositivos (Devices).
 
 * Asegúrate de que tu Oculus Quest esté conectado y que aparezca en la pestaña Dispositivos.
 
-* Inicie la escena de realidad virtual que creó en Unity y haga clic en Archivo > Configuración de compilación.
+* Inicia la escena de realidad virtual que creaste en Unity y haz click en File > Build configuration.
 
-* Seleccione la plataforma como PC, luego haga clic en Build and Run.
+* Selecciona la plataforma como PC, luego haz click en Build and Run.
 
-* Una vez creada la escena, debería aparecer la ventana de Oculus Link en su PC. Ponte el visor Oculus Quest y selecciona la opción Oculus Link en el menú Quest.
+* Una vez creada la escena, debería aparecer la ventana de Oculus Link en tu PC. Ponte el visor Oculus Quest y selecciona la opción Oculus Link en el menú Quest.
 
-* Su escena de realidad virtual ahora debería estar visible en su Oculus Quest y puede navegar a través de ella usando los controladores.
+* Tu escena de realidad virtual ahora debería estar visible en tu Oculus Quest y puedes navegar a través de ella usando los controladores.
 
 <br>
 <br>
@@ -365,15 +365,15 @@ Para ver la nueva escena de realidad virtual en su visor Oculus mediante Oculus 
 
 * Conecta tu Oculus Quest a tu PC con un cable USB-C.
 
-* Abra SideQuest en su computadora y asegúrese de que la aplicación reconozca su Oculus Quest.
+* Abre SideQuest en tu computadora y asegúrate de que la aplicación reconozca tu Oculus Quest.
 
-* Haga clic en el botón Instalar APK en SideQuest y seleccione el archivo APK que desea instalar.
+* Haz click en el botón Install APK en SideQuest y selecciona el archivo APK que deseas instalar.
 
-* Espere a que se complete la instalación y luego desconecte su Oculus Quest de su PC.
+* Espera a que se complete la instalación y luego desconecta tu Oculus Quest de su PC.
 
-* Colóquese el visor Oculus Quest y vaya a la sección Fuentes desconocidas de la biblioteca.
+* Colócate el visor Oculus Quest y ve a la sección unknown library sources.
 
-* Seleccione la aplicación que acaba de instalar y debería iniciar la escena de realidad virtual que creó en Unity.
+* Selecciona la aplicación que acabas de instalar y se debería iniciar la escena de realidad virtual que creaste en Unity.
 
-* ¡Felicidades! Ahora ha visto con éxito su nueva escena de realidad virtual en su visor Oculus usando Oculus Link o SideQuest .
+* ¡Felicidades! Ahora has visto con éxito tu nueva escena de realidad virtual en tu visor Oculus usando Oculus Link o SideQuest .
 
