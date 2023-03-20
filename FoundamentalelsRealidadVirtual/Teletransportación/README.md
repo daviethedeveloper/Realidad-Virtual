@@ -3,43 +3,212 @@
 
 ## Implement teleportation into your Unity project using the XR Toolkit:
 
-* Go to the hierarchy window
 
-* Under the hierarchy window, select the XR Rig object that you want to add the teleportation system to
+<br>
 
-* Next, add the Teleportation Provider component to the XR Rig object. This component is responsible for moving the XR Rig to the desired location based on where we choose
+* Open Unity and load the project you are working on
+* Click on the XR Rig in the scene and add the Locomotion System - Drag and Drop the XR Origin 
+* Click on the XR Rig in the Scene and add the Teleportation Provider component
 
-* After adding the Teleportation Provider component, you'll notice that it requires a Locomotion System. So, drag and drop the locomotion system onto it
-
-* Now, go to the Camera Offset object under XR Rig, and add an empty game object by right-clicking and selecting "Create Empty". Name it "Right Hand Parent" as this game object will hold the game objects associated with the right-hand controllers
-
-* Under the Right Hand Parent, add the Right Hand Controller and make sure that the transforms are reset.
-Rename the Right Hand Controller to "Right Hand Teleport Controller" as this will be the controller specifically for Teleportation
-
-* Next, create another empty game object under the Right Hand Parent and call it "Right Hand Base Controller"
-
-* Now, add an XR Controller Action-Based component to the Right Hand Base Controller. It comes ready with the right references because we set up the new input system before
-
-* Add the XR Direct Interactor and a Sphere Collider to the Right Hand Base Controller
-
-* Click on the Right Hand Teleport Controller, and under XR Ray Interactor, set the Line type from straight to projectile curve to make it look like aiming for teleportation
-
-* Uncheck the XR Ray Interactor because we don't want a raycaster pointing toward the scene all the time, we only want it when we teleport
-
-* Go to XR Interactors Line Visual and change the valid color to blue or any other color you prefer.
-Change the Select Action to "RightHand/TeleportSelect" by choice under the XR Controller. It uses the same bindings as the Select action
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(1).png" alt="Logotipo"></p>
 
 
-* Go to the Github page that includes example projects for XR Interaction Toolkit from Unity, download and extract the example project
+<br>
+<br>
+<br>
 
-* In the example project, go to the WorldInteraction Demo scene, expand XRRigDemo, and you will see a similar Hand controller setup. Here we have this Action Based Controller Manager script, which handles the Teleportation mode switch very well.
+* Under Camera Offset, right-click and create an empty game object called "Right Hand Parent"
+* Drag the Right Hand Controller under the Right Hand Parent
+* Make sure to reset the transforms for the Right Hand Parent and Right Hand Controller
 
-* Add the Action Based Controller Manager script to your project and set it up. This script handles the teleportation mode switch
 
-Test the teleportation system in your scene.
+<p align="center"><img src="Teleportation_Images/Screenshot%202023-03-19%20195421.png" alt="Logotipo"></p>
+<p align="center"><img src="Teleportation_Images/Screenshot%202023-03-19%20195539.png" alt="Logotipo"></p>
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(2).pngTeleportation_Images/2023-03-19%20(1).png" alt="Logotipo"></p>
 
-https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples
 
-https://onedrive.live.com/?authkey=%21AH5uCH91kQkqesc&id=AF7C4978DAD898DD%21121643&cid=AF7C4978DAD898DD&parId=root&parQt=sharedby&o=OneUp
+
+<br>
+<br>
+<br>
+
+* Change the name of the Right Hand Controller to "Right Hand Teleport Controller"
+* Create another empty game object under the Right Hand Parent and call it "Right Hand Base Controller"
+
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(3).png" alt="Logotipo"></p>
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(4).png/2023-03-19%20(1).png" alt="Logotipo"></p>
+
+
+
+<br>
+<br>
+<br>
+
+* Add an XR Controller Action-Based component to the Right Hand Base Controller
+* For the base controller, add an XR Direct Interactor and a Sphere Collider
+
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(5).png" alt="Logotipo"></p>
+
+
+<br>
+<br>
+<br>
+
+* Click on the Right Hand Teleport Controller and under XR Ray Interactor, set the Line type from straight to projectile curve
+
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(6).png" alt="Logotipo"></p>
+
+
+<br>
+<br>
+<br>
+
+* Uncheck the XR Ray Interactor to hide the raycaster when not teleporting
+* Go to XR Interactors Line Visual and change the valid color to green
+
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(7).png" alt="Logotipo"></p>
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(8).png" alt="Logotipo"></p>
+
+
+
+<br>
+<br>
+<br>
+
+
+* Scroll up to the XR Controller and change the Select Action to "RightHand/TeleportSelect"
+
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(23).png" alt="Logotipo"></p>
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(24).png" alt="Logotipo"></p>
+
+
+<br>
+<br>
+<br>
+
+
+* Open towards the Default Input Actions and check for the Right Hand Binding Actions
+
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(10).png" alt="Logotipo"></p>
+
+<br>
+<br>
+<br>
+
+
+* Check XRI RightHand Locomotion - Teleport Select - Check the Binding actions associated with this
+
+
+
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(11).png" alt="Logotipo"></p>
+
+
+
+<br>
+<br>
+<br>
+
+
+* Click on Teleport Mode Activate to check the binding action
+
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(12).png" alt="Logotipo"></p>
+
+
+<br>
+<br>
+<br>
+
+
+* Click on Teleport Mode Cancel to check the binding action
+
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(13).png" alt="Logotipo"></p>
+
+
+<br>
+<br>
+<br>
+
+
+* Attach the 'Action Based Controller Manager' to Parent Hand Controller - This script will allow the switch between base controller action and teleport action controller
+
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(14).png" alt="Logotipo"></p>
+
+
+<br>
+<br>
+<br>
+
+* Attach the correct binding actions to the Parent Hand Controller 
+
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(15).png" alt="Logotipo"></p>
+
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(16).png" alt="Logotipo"></p>
+
+
+
+<br>
+<br>
+<br>
+
+
+* This is the result of attaching the appropiate binding actions
+
+<p align="center"><img src="Teleportation_Images/Screenshot%202023-03-19%20212616.png" alt="Logotipo"></p>
+
+
+<br>
+<br>
+<br>
+
+
+* Attach the Teleportation Area Script to the Floor where the Player will spawn on
+
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(17).png" alt="Logotipo"></p>
+
+
+<br>
+<br>
+<br>
+
+* Drag and drop the Box Collider into the 'Colliders'
+
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(18).png" alt="Logotipo"></p>
+
+
+
+<br>
+<br>
+<br>
+
+
+
+* Create a new Teleport area mask and make sure that the Floor 'Layer' is 'Teleport'. 
+
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(19).png" alt="Logotipo"></p>
+
+
+<br>
+<br>
+<br>
+
+
+* The 'Interaction Layer Mask' under Teleportation Area set to 'Teleport'
+
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(20).png" alt="Logotipo"></p>
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(21).png" alt="Logotipo"></p>
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
 
 
