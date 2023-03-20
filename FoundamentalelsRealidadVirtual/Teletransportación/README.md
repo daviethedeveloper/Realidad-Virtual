@@ -24,7 +24,7 @@
 
 <p align="center"><img src="Teleportation_Images/Screenshot%202023-03-19%20195421.png" alt="Logotipo"></p>
 <p align="center"><img src="Teleportation_Images/Screenshot%202023-03-19%20195539.png" alt="Logotipo"></p>
-<p align="center"><img src="Teleportation_Images/2023-03-19%20(2).pngTeleportation_Images/2023-03-19%20(1).png" alt="Logotipo"></p>
+<p align="center"><img src="Teleportation_Images/2023-03-19%20(2).png" alt="Logotipo"></p>
 
 
 
