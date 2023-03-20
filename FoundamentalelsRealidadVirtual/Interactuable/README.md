@@ -231,8 +231,7 @@ Esto te permite especificar un evento de Unity que se activará cuando el jugado
 
 ### Al activar (On activate)
 Esto te permite especificar un evento de Unity que se activará cuando se active el interactivo.
-<p align="center"><img src="Imágenes-interactuables/2023-03-16%20(15).png" alt="Logotipo" ></p>
-
+<p align="center"><img src="Interactable-Images/2023-03-16%20(15).png" alt="Logo" ></p>
 
 
 <br>
