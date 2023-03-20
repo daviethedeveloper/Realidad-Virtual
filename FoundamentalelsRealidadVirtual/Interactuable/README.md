@@ -5,7 +5,7 @@
 <br>
 <br>
 
-* Agrega un avión a la escena y asegúrate de que los “gizmos” estén habilitados
+* Agrega un plano a la escena y asegúrate de que los “gizmos” estén habilitados
 <br>
 
 <p align="center"><img src="Interactable-Images/2023-03-16.png" alt="Logo" ></p>
