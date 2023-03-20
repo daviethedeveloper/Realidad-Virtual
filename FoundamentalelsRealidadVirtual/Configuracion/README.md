@@ -85,9 +85,9 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 
 
-* En la configuración del reproductor, ingrese el nombre único de su empresa para " Nombre de la empresa "
+* En la configuración "Player", ingresa un nombre único para tu "Company"
 
-* Siga las sugerencias de Unity para otras configuraciones
+* Sigue las sugerencias de Unity para las otras configuraciones
 
 <br>
 
@@ -98,7 +98,7 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 
 
-* Elija "Lineal" para Espacio de color
+* Elije "Linear" para "Color Space"
 
 <br>
 
@@ -108,9 +108,9 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 <br>
 
 
-* Asegúrese de que OPENGLES3 sea la única API de gráficos en las API de gráficos
+* Asegúrate de que OPENGLES3 sea la única API de gráficos en las API graficas
 
-* Marque la opción "Nombre del paquete predeterminado" e ingrese su paquete único
+* Marca la opción "Default package name" e ingresa el paquete único
 
 <br>
 
@@ -120,11 +120,11 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 <br>
 
 
-* Establezca el nivel mínimo de API en min 23 Android 6.0 Marshmallow
+* Establece el nivel mínimo de API en 23 "Android 6.0 Marshmallow"
 
-* Establezca el nivel de la API de destino en Automático (el más alto instalado)
+* Establece el nivel de la API de destino en Automático (el más alto instalado)
 
-* Establecer la ubicación de instalación en automático
+* Establece la ubicación de instalación en automático
 
 <br>
 
@@ -133,9 +133,9 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 <br>
 <br>
 
-* Marque "Representación de subprocesos múltiples"
+* Marca "Multi-threaded rendering"
 
-* En Gestión de entrada activa, seleccione "Ambos"
+* En Gestión de entrada activa, seleccione "Both"
 
 <br>
 
@@ -148,21 +148,21 @@ Guía de instrucciones: Configuración de Unity para el desarrollo de Oculus Que
 
 
 
-* Vaya a la pestaña "Calidad" en la configuración del proyecto
+* Ve a la pestaña "Quality" en la configuración del proyecto
 
-* Crear un nuevo nivel de calidad para Oculus Quest llamado "Quest"
+* Crea un nuevo nivel de calidad para Oculus Quest llamado "Quest"
 
-* Desmarque todas las demás configuraciones
+* Desmarca todas las demás configuraciones
 
-* Habilite la configuración de Quest para la plataforma Android
+* Habilita la configuración de Quest para la plataforma Android
 
-* Para PC, vaya con Ultra
+* Para PC escoje Ultra
 
-* Establezca el recuento de píxeles de luz en 1
+* Establece el "Pixel Light Count en 1
 
-* Deshabilitar partículas blandas
+* Desmarca "Soft Particles"
 
-* Seleccione "Por textura" para texturas anisotrópicas
+* Seleccione "Per Texture" para texturas anisotrópicas
 
 * Seleccione "4x" para Anti Aliasing
 
