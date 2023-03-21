@@ -23,7 +23,7 @@ Este es un proyecto para mostrar cómo configurar un proyecto de realidad virtua
 
 ## II. Configuracion
 
-* [¿Como Configurarlo?](FoundamentalelsRealidadVirtual/Configuracion/README.md)
+* [¿Cómo Configurarlo?](FoundamentalelsRealidadVirtual/Configuracion/README.md)
 
 
 
@@ -62,7 +62,7 @@ Este es un proyecto para mostrar cómo configurar un proyecto de realidad virtua
 
 ## V. Movimiento Continuo
 
-* [¿Como Usar Movimiento Continuo?](FoundamentalelsRealidadVirtual/MOvimientoContinuo/README.md)
+* [¿Cómo Usar Movimiento Continuo?](FoundamentalelsRealidadVirtual/MOvimientoContinuo/README.md)
 
 
 
@@ -73,7 +73,7 @@ Este es un proyecto para mostrar cómo configurar un proyecto de realidad virtua
 
 ## VI. Teletransportacion
 
-* [¿Como Usar Teletransportacion?](FoundamentalelsRealidadVirtual/Teletransportación/README.md)
+* [¿Cómo Usar Teletransportacion?](FoundamentalelsRealidadVirtual/Teletransportación/README.md)
 
 
 
