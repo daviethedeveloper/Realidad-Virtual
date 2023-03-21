@@ -1,4 +1,4 @@
-## teletransportacion
+## Teletransportacion
 
 
 ## Implementa la teletransportación en tu proyecto de Unity usando el kit de herramientas XR:
@@ -102,7 +102,7 @@
 
 
 
- br>
+<br>
 <br>
 <br>
 
