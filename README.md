@@ -84,7 +84,21 @@ Este es un proyecto para mostrar cómo configurar un proyecto de realidad virtua
 
 ### Contacto
 
+<br>
+<br>
+
+@Davie F.
+<br>
 
 * <a href="https://www.linkedin.com/in/daviethedev/" target="_blank">Linkedin</a>
 
 * <a href="https://www.instagram.com/daviethedev/" target="_blank">Instagram</a>
+
+<br>
+
+@David Martinez Burgos
+<br>
+
+* <a href="https://www.linkedin.com/in/david-martinez-5b9b06227/?original_referer=" target="_blank">Linkedin</a>
+
+
