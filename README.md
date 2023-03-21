@@ -12,14 +12,23 @@ Este es un proyecto para mostrar cómo configurar un proyecto de realidad virtua
 <br>
 
 ## I. Unity
-<h1> Unity </h1>
+
+* [¿Qué es Unity?](FoundamentalelsRealidadVirtual/Unity/README.md)
+
+
 
 
 <br>
 <br>
 
 ## II. Configuracion
-<h1> Configuracion </h1>
+
+* [¿Como Configurarlo?](FoundamentalelsRealidadVirtual/Configuracion/README.md)
+
+
+
+
+
 
 
 
@@ -27,7 +36,9 @@ Este es un proyecto para mostrar cómo configurar un proyecto de realidad virtua
 <br>
 
 ## III. Interactuable
-<h1> Interactuable </h1>
+
+* [¿Como Interactuable?](FoundamentalelsRealidadVirtual/Interactuable/README.md)
+
 
 
 
@@ -36,7 +47,13 @@ Este es un proyecto para mostrar cómo configurar un proyecto de realidad virtua
 <br>
 
 ## IV. Interfaz De Usuario
-<h1> Interfaz De Usuario </h1>
+
+* [¿Qué es Interfaz De Usuario?](FoundamentalelsRealidadVirtual/InterfazDeUsuario/README.md)
+
+
+
+
+
 
 
 
@@ -44,13 +61,21 @@ Este es un proyecto para mostrar cómo configurar un proyecto de realidad virtua
 <br>
 
 ## V. Movimiento Continuo
-<h1> Movimiento Continuo </h1>
+
+* [¿Como Usar Movimiento Continuo?](FoundamentalelsRealidadVirtual/MOvimientoContinuo/README.md)
+
+
+
+
 
 <br>
 <br>
 
 ## VI. Teletransportacion
-<h1> Teletransportacion </h1>
+
+* [¿Como Usar Teletransportacion?](FoundamentalelsRealidadVirtual/Teletransportación/README.md)
+
+
 
 
 
@@ -58,5 +83,7 @@ Este es un proyecto para mostrar cómo configurar un proyecto de realidad virtua
 <br>
 
 ### Contacto
-- Linkdn
-- Instagram
+
+* [Linkedin](https://www.linkedin.com/in/daviethedev/)
+
+* [Instagram](https://www.instagram.com/daviethedev/)
